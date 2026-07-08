@@ -1,0 +1,691 @@
+
+────────────────────────────────────────────────────────────
+  Gabor filter bank:  M=4 scales × N=6 orientations
+  Frequencies:        U_l=0.01  U_h=0.4
+  Mask size:          33×33
+  Defective images:   398
+  Defect-free images: 1666
+────────────────────────────────────────────────────────────
+
+[DEFECT]  1.jpg                                     filter=(3,3)  F=24.66  h=7.8044  detected=YES
+[DEFECT]  10.jpg                                    filter=(3,2)  F=19.21  h=9.7298  detected=YES
+[DEFECT]  100.jpg                                   filter=(3,3)  F=15.18  h=11.2060  detected=YES
+[DEFECT]  101.jpg                                   filter=(3,2)  F=11.71  h=10.4619  detected=YES
+[DEFECT]  102.jpg                                   filter=(3,3)  F=24.96  h=4.7224  detected=YES
+[DEFECT]  103.jpg                                   filter=(3,5)  F=14.68  h=10.1122  detected=YES
+[DEFECT]  104.jpg                                   filter=(3,2)  F=8.73  h=15.7289  detected=YES
+[DEFECT]  105.jpg                                   filter=(3,3)  F=50.55  h=5.3357  detected=YES
+[DEFECT]  106.jpg                                   filter=(3,4)  F=8.18  h=16.4405  detected=YES
+[DEFECT]  107.jpg                                   filter=(3,5)  F=11.88  h=14.4559  detected=YES
+[DEFECT]  108.jpg                                   filter=(3,3)  F=12.93  h=6.8251  detected=YES
+[DEFECT]  109.jpg                                   filter=(3,0)  F=28.65  h=4.9780  detected=YES
+[DEFECT]  11.jpg                                    filter=(3,0)  F=13.26  h=18.3433  detected=YES
+[DEFECT]  110.jpg                                   filter=(2,3)  F=13.58  h=10.2911  detected=YES
+[DEFECT]  111.jpg                                   filter=(3,1)  F=21.73  h=7.6957  detected=YES
+[DEFECT]  112.jpg                                   filter=(3,0)  F=9.21  h=12.6680  detected=YES
+[DEFECT]  113.jpg                                   filter=(3,5)  F=35.10  h=4.8765  detected=YES
+[DEFECT]  114.jpg                                   filter=(3,3)  F=10.23  h=11.1290  detected=YES
+[DEFECT]  115.jpg                                   filter=(3,3)  F=15.41  h=10.4969  detected=YES
+[DEFECT]  116.jpg                                   filter=(3,2)  F=14.33  h=11.9982  detected=YES
+[DEFECT]  117.jpg                                   filter=(3,3)  F=16.53  h=7.6493  detected=YES
+[DEFECT]  118.jpg                                   filter=(3,4)  F=4.54  h=28.7600  detected=YES
+[DEFECT]  119.jpg                                   filter=(3,0)  F=6.69  h=19.7575  detected=YES
+[DEFECT]  12.jpg                                    filter=(3,4)  F=22.90  h=7.0115  detected=YES
+[DEFECT]  120.jpg                                   filter=(3,4)  F=3.17  h=32.1753  detected=YES
+[DEFECT]  121.jpg                                   filter=(3,1)  F=26.32  h=7.3316  detected=YES
+[DEFECT]  122.jpg                                   filter=(3,5)  F=22.69  h=7.6127  detected=YES
+[DEFECT]  123.jpg                                   filter=(3,5)  F=14.59  h=10.9926  detected=YES
+[DEFECT]  124.jpg                                   filter=(3,0)  F=25.11  h=6.3366  detected=YES
+[DEFECT]  125.jpg                                   filter=(3,5)  F=36.60  h=3.8596  detected=YES
+[DEFECT]  126.jpg                                   filter=(3,1)  F=12.68  h=12.3425  detected=YES
+[DEFECT]  127.jpg                                   filter=(3,2)  F=19.86  h=7.0973  detected=YES
+[DEFECT]  128.jpg                                   filter=(3,2)  F=8.50  h=15.3117  detected=YES
+[DEFECT]  129.jpg                                   filter=(3,4)  F=27.07  h=6.3485  detected=YES
+[DEFECT]  13.jpg                                    filter=(3,2)  F=20.50  h=7.3082  detected=YES
+[DEFECT]  130.jpg                                   filter=(3,1)  F=8.31  h=16.3396  detected=YES
+[DEFECT]  131.jpg                                   filter=(3,1)  F=24.96  h=5.9715  detected=YES
+[DEFECT]  132.jpg                                   filter=(3,4)  F=6.72  h=15.4094  detected=YES
+[DEFECT]  133.jpg                                   filter=(3,5)  F=8.08  h=17.8695  detected=YES
+[DEFECT]  134.jpg                                   filter=(2,3)  F=14.21  h=8.5511  detected=YES
+[DEFECT]  135.jpg                                   filter=(3,3)  F=9.29  h=13.5560  detected=YES
+[DEFECT]  136.jpg                                   filter=(2,5)  F=33.70  h=4.2910  detected=YES
+[DEFECT]  137.jpg                                   filter=(3,3)  F=7.95  h=14.2944  detected=YES
+[DEFECT]  138.jpg                                   filter=(3,0)  F=29.00  h=4.3492  detected=YES
+[DEFECT]  139.jpg                                   filter=(3,1)  F=15.68  h=8.3640  detected=YES
+[DEFECT]  14.jpg                                    filter=(3,1)  F=22.03  h=8.8451  detected=YES
+[DEFECT]  140.jpg                                   filter=(3,5)  F=11.01  h=11.2695  detected=YES
+[DEFECT]  141.jpg                                   filter=(3,5)  F=13.45  h=8.5001  detected=YES
+[DEFECT]  142.jpg                                   filter=(3,2)  F=10.13  h=12.1511  detected=YES
+[DEFECT]  143.jpg                                   filter=(3,4)  F=9.12  h=12.1380  detected=YES
+[DEFECT]  144.jpg                                   filter=(3,3)  F=17.87  h=8.9758  detected=YES
+[DEFECT]  145.jpg                                   filter=(2,3)  F=12.56  h=12.3210  detected=YES
+[DEFECT]  146.jpg                                   filter=(3,5)  F=8.52  h=17.8827  detected=YES
+[DEFECT]  147.jpg                                   filter=(3,3)  F=7.17  h=20.3802  detected=YES
+[DEFECT]  148.jpg                                   filter=(3,0)  F=9.82  h=13.3024  detected=YES
+[DEFECT]  149.jpg                                   filter=(3,0)  F=5.64  h=43.3571  detected=YES
+[DEFECT]  15.jpg                                    filter=(3,0)  F=13.66  h=15.9838  detected=YES
+[DEFECT]  150.jpg                                   filter=(3,3)  F=11.30  h=14.3411  detected=YES
+[DEFECT]  151.jpg                                   filter=(3,0)  F=7.36  h=25.5965  detected=YES
+[DEFECT]  152.jpg                                   filter=(3,0)  F=6.47  h=39.2149  detected=YES
+[DEFECT]  153.jpg                                   filter=(3,4)  F=15.43  h=13.7432  detected=YES
+[DEFECT]  154.jpg                                   filter=(3,5)  F=11.56  h=18.5830  detected=YES
+[DEFECT]  155.jpg                                   filter=(3,0)  F=18.93  h=9.8637  detected=YES
+[DEFECT]  156.jpg                                   filter=(3,0)  F=10.00  h=15.3725  detected=YES
+[DEFECT]  157.jpg                                   filter=(3,0)  F=9.86  h=17.4207  detected=YES
+[DEFECT]  158.jpg                                   filter=(3,0)  F=16.07  h=12.1327  detected=YES
+[DEFECT]  159.jpg                                   filter=(3,0)  F=24.38  h=7.2945  detected=YES
+[DEFECT]  16.jpg                                    filter=(3,0)  F=14.62  h=17.0200  detected=YES
+[DEFECT]  160.jpg                                   filter=(3,3)  F=37.51  h=3.8017  detected=YES
+[DEFECT]  161.jpg                                   filter=(3,0)  F=16.24  h=8.9314  detected=YES
+[DEFECT]  162.jpg                                   filter=(3,2)  F=17.98  h=8.4529  detected=YES
+[DEFECT]  163.jpg                                   filter=(3,0)  F=19.82  h=8.2377  detected=YES
+[DEFECT]  164.jpg                                   filter=(3,4)  F=22.85  h=8.9765  detected=YES
+[DEFECT]  165.jpg                                   filter=(3,3)  F=19.94  h=10.6801  detected=YES
+[DEFECT]  166.jpg                                   filter=(3,0)  F=15.85  h=11.8950  detected=YES
+[DEFECT]  167.jpg                                   filter=(3,0)  F=28.50  h=5.4662  detected=YES
+[DEFECT]  168.jpg                                   filter=(3,0)  F=12.40  h=13.1427  detected=YES
+[DEFECT]  169.jpg                                   filter=(3,1)  F=17.59  h=11.7321  detected=YES
+[DEFECT]  17.jpg                                    filter=(3,5)  F=24.63  h=11.5331  detected=YES
+[DEFECT]  170.jpg                                   filter=(3,1)  F=11.38  h=12.7877  detected=YES
+[DEFECT]  171.jpg                                   filter=(3,0)  F=10.84  h=12.0582  detected=YES
+[DEFECT]  172.jpg                                   filter=(3,0)  F=8.70  h=12.5043  detected=YES
+[DEFECT]  173.jpg                                   filter=(3,1)  F=13.84  h=9.3945  detected=YES
+[DEFECT]  174.jpg                                   filter=(3,1)  F=11.25  h=10.1998  detected=YES
+[DEFECT]  175.jpg                                   filter=(3,0)  F=11.09  h=9.8081  detected=YES
+[DEFECT]  176.jpg                                   filter=(3,2)  F=17.93  h=12.9173  detected=YES
+[DEFECT]  177.jpg                                   filter=(3,2)  F=21.64  h=8.9251  detected=YES
+[DEFECT]  178.jpg                                   filter=(3,3)  F=20.76  h=9.5537  detected=YES
+[DEFECT]  179.jpg                                   filter=(3,3)  F=19.01  h=10.2501  detected=YES
+[DEFECT]  18.jpg                                    filter=(3,1)  F=19.96  h=11.5689  detected=YES
+[DEFECT]  180.jpg                                   filter=(1,4)  F=21.84  h=4.4400  detected=YES
+[DEFECT]  181.jpg                                   filter=(3,3)  F=19.32  h=9.8900  detected=YES
+[DEFECT]  182.jpg                                   filter=(3,0)  F=16.51  h=11.6591  detected=YES
+[DEFECT]  183.jpg                                   filter=(3,2)  F=17.15  h=10.3094  detected=YES
+[DEFECT]  184.jpg                                   filter=(3,0)  F=14.87  h=9.0047  detected=YES
+[DEFECT]  185.jpg                                   filter=(3,0)  F=16.39  h=11.9327  detected=YES
+[DEFECT]  186.jpg                                   filter=(3,0)  F=20.84  h=8.8853  detected=YES
+[DEFECT]  187.jpg                                   filter=(3,3)  F=15.15  h=7.4198  detected=YES
+[DEFECT]  188.jpg                                   filter=(3,0)  F=30.07  h=7.4843  detected=YES
+[DEFECT]  189.jpg                                   filter=(3,3)  F=13.57  h=12.8198  detected=YES
+[DEFECT]  19.jpg                                    filter=(3,0)  F=29.89  h=6.9727  detected=YES
+[DEFECT]  190.jpg                                   filter=(3,1)  F=8.79  h=12.3043  detected=YES
+[DEFECT]  191.jpg                                   filter=(3,3)  F=10.69  h=13.9028  detected=YES
+[DEFECT]  192.jpg                                   filter=(3,0)  F=8.59  h=15.6751  detected=YES
+[DEFECT]  193.jpg                                   filter=(3,5)  F=11.73  h=10.2452  detected=YES
+[DEFECT]  194.jpg                                   filter=(3,0)  F=9.16  h=14.9210  detected=YES
+[DEFECT]  195.jpg                                   filter=(3,5)  F=16.02  h=9.3578  detected=YES
+[DEFECT]  196.jpg                                   filter=(3,5)  F=10.87  h=10.3922  detected=YES
+[DEFECT]  197.jpg                                   filter=(3,2)  F=18.64  h=10.3113  detected=YES
+[DEFECT]  198.jpg                                   filter=(3,5)  F=16.17  h=9.6029  detected=YES
+[DEFECT]  199.jpg                                   filter=(3,2)  F=11.83  h=16.1486  detected=YES
+[DEFECT]  2.jpg                                     filter=(3,3)  F=27.13  h=7.6308  detected=YES
+[DEFECT]  20.jpg                                    filter=(3,0)  F=9.09  h=18.2542  detected=YES
+[DEFECT]  200.jpg                                   filter=(3,2)  F=12.08  h=13.6145  detected=YES
+[DEFECT]  201.jpg                                   filter=(3,3)  F=20.35  h=9.5114  detected=YES
+[DEFECT]  202.jpg                                   filter=(3,3)  F=9.22  h=18.3412  detected=YES
+[DEFECT]  203.jpg                                   filter=(3,2)  F=14.07  h=13.2508  detected=YES
+[DEFECT]  204.jpg                                   filter=(3,3)  F=16.05  h=9.5840  detected=YES
+[DEFECT]  205.jpg                                   filter=(3,2)  F=10.26  h=15.8172  detected=YES
+[DEFECT]  206.jpg                                   filter=(3,4)  F=14.16  h=11.8493  detected=YES
+[DEFECT]  207.jpg                                   filter=(3,1)  F=17.56  h=8.6947  detected=YES
+[DEFECT]  208.jpg                                   filter=(3,0)  F=12.59  h=14.4479  detected=YES
+[DEFECT]  209.jpg                                   filter=(3,0)  F=21.96  h=9.2744  detected=YES
+[DEFECT]  21.jpg                                    filter=(3,1)  F=13.45  h=10.7488  detected=YES
+[DEFECT]  210.jpg                                   filter=(3,3)  F=18.57  h=8.1628  detected=YES
+[DEFECT]  211.jpg                                   filter=(3,0)  F=12.85  h=10.9366  detected=YES
+[DEFECT]  212.jpg                                   filter=(3,2)  F=15.98  h=12.1812  detected=YES
+[DEFECT]  213.jpg                                   filter=(3,3)  F=17.11  h=8.5961  detected=YES
+[DEFECT]  214.jpg                                   filter=(3,1)  F=19.54  h=8.8090  detected=YES
+[DEFECT]  215.jpg                                   filter=(3,1)  F=14.94  h=11.1420  detected=YES
+[DEFECT]  216.jpg                                   filter=(3,0)  F=15.34  h=10.3473  detected=YES
+[DEFECT]  217.jpg                                   filter=(3,4)  F=8.61  h=20.4135  detected=YES
+[DEFECT]  218.jpg                                   filter=(3,2)  F=10.97  h=14.7604  detected=YES
+[DEFECT]  219.jpg                                   filter=(3,1)  F=23.32  h=6.4189  detected=YES
+[DEFECT]  22.jpg                                    filter=(3,0)  F=21.97  h=6.8191  detected=YES
+[DEFECT]  220.jpg                                   filter=(3,5)  F=14.09  h=10.7623  detected=YES
+[DEFECT]  221.jpg                                   filter=(3,2)  F=11.90  h=14.0515  detected=YES
+[DEFECT]  222.jpg                                   filter=(3,3)  F=17.15  h=10.9400  detected=YES
+[DEFECT]  223.jpg                                   filter=(3,5)  F=20.75  h=8.9566  detected=YES
+[DEFECT]  224.jpg                                   filter=(3,0)  F=9.56  h=18.8879  detected=YES
+[DEFECT]  225.jpg                                   filter=(3,0)  F=12.56  h=13.6708  detected=YES
+[DEFECT]  226.jpg                                   filter=(3,0)  F=9.10  h=14.3873  detected=YES
+[DEFECT]  227.jpg                                   filter=(3,4)  F=15.83  h=10.2165  detected=YES
+[DEFECT]  228.jpg                                   filter=(3,0)  F=15.12  h=8.9742  detected=YES
+[DEFECT]  229.jpg                                   filter=(2,0)  F=11.38  h=14.1209  detected=YES
+[DEFECT]  23.jpg                                    filter=(3,1)  F=18.83  h=8.9025  detected=YES
+[DEFECT]  230.jpg                                   filter=(3,4)  F=7.94  h=14.6153  detected=YES
+[DEFECT]  231.jpg                                   filter=(3,2)  F=14.28  h=12.0571  detected=YES
+[DEFECT]  232.jpg                                   filter=(3,3)  F=10.92  h=8.2595  detected=YES
+[DEFECT]  233.jpg                                   filter=(3,4)  F=7.86  h=16.9174  detected=YES
+[DEFECT]  234.jpg                                   filter=(3,3)  F=9.42  h=9.7290  detected=YES
+[DEFECT]  235.jpg                                   filter=(3,3)  F=17.22  h=9.6539  detected=YES
+[DEFECT]  236.jpg                                   filter=(3,3)  F=9.24  h=15.8330  detected=YES
+[DEFECT]  237.jpg                                   filter=(2,0)  F=10.95  h=13.9496  detected=YES
+[DEFECT]  238.jpg                                   filter=(3,0)  F=18.72  h=8.9009  detected=YES
+[DEFECT]  239.jpg                                   filter=(2,0)  F=17.63  h=10.7168  detected=YES
+[DEFECT]  24.jpg                                    filter=(3,5)  F=12.52  h=7.9565  detected=YES
+[DEFECT]  240.jpg                                   filter=(3,3)  F=9.98  h=9.2597  detected=YES
+[DEFECT]  241.jpg                                   filter=(3,3)  F=10.45  h=8.5294  detected=YES
+[DEFECT]  242.jpg                                   filter=(3,2)  F=11.81  h=7.2790  detected=YES
+[DEFECT]  243.jpg                                   filter=(3,5)  F=13.68  h=10.9862  detected=YES
+[DEFECT]  244.jpg                                   filter=(3,0)  F=10.87  h=13.6542  detected=YES
+[DEFECT]  245.jpg                                   filter=(3,2)  F=19.24  h=8.5145  detected=YES
+[DEFECT]  246.jpg                                   filter=(3,4)  F=11.52  h=13.3355  detected=YES
+[DEFECT]  247.jpg                                   filter=(3,1)  F=7.97  h=10.0452  detected=YES
+[DEFECT]  248.jpg                                   filter=(2,4)  F=9.65  h=10.7462  detected=YES
+[DEFECT]  249.jpg                                   filter=(3,3)  F=8.63  h=10.6241  detected=YES
+[DEFECT]  25.jpg                                    filter=(3,3)  F=10.23  h=9.2024  detected=YES
+[DEFECT]  250.jpg                                   filter=(3,3)  F=8.83  h=13.0321  detected=YES
+[DEFECT]  251.jpg                                   filter=(3,3)  F=10.74  h=9.7158  detected=YES
+[DEFECT]  252.jpg                                   filter=(3,0)  F=23.94  h=6.7948  detected=YES
+[DEFECT]  253.jpg                                   filter=(3,5)  F=11.37  h=10.4710  detected=YES
+[DEFECT]  254.jpg                                   filter=(3,1)  F=7.89  h=14.0601  detected=YES
+[DEFECT]  255.jpg                                   filter=(3,2)  F=8.98  h=12.5636  detected=YES
+[DEFECT]  256.jpg                                   filter=(3,4)  F=13.29  h=8.6213  detected=YES
+[DEFECT]  257.jpg                                   filter=(3,0)  F=17.85  h=8.6446  detected=YES
+[DEFECT]  258.jpg                                   filter=(2,0)  F=12.50  h=10.9172  detected=YES
+[DEFECT]  259.jpg                                   filter=(3,3)  F=7.65  h=11.9008  detected=YES
+[DEFECT]  26.jpg                                    filter=(3,0)  F=12.32  h=12.8586  detected=YES
+[DEFECT]  260.jpg                                   filter=(3,3)  F=12.76  h=9.1247  detected=YES
+[DEFECT]  261.jpg                                   filter=(3,0)  F=11.32  h=12.1889  detected=YES
+[DEFECT]  262.jpg                                   filter=(3,0)  F=9.87  h=13.6062  detected=YES
+[DEFECT]  263.jpg                                   filter=(3,0)  F=23.05  h=8.8298  detected=YES
+[DEFECT]  264.jpg                                   filter=(3,1)  F=10.99  h=15.8075  detected=YES
+[DEFECT]  265.jpg                                   filter=(3,0)  F=11.17  h=10.3583  detected=YES
+[DEFECT]  266.jpg                                   filter=(3,4)  F=12.30  h=10.4299  detected=YES
+[DEFECT]  267.jpg                                   filter=(3,5)  F=9.04  h=12.7530  detected=YES
+[DEFECT]  268.jpg                                   filter=(3,0)  F=10.12  h=11.0101  detected=YES
+[DEFECT]  269.jpg                                   filter=(3,1)  F=12.88  h=11.3477  detected=YES
+[DEFECT]  27.jpg                                    filter=(3,0)  F=17.16  h=6.8585  detected=YES
+[DEFECT]  270.jpg                                   filter=(3,3)  F=10.02  h=14.1052  detected=YES
+[DEFECT]  271.jpg                                   filter=(3,3)  F=8.58  h=16.7105  detected=YES
+[DEFECT]  272.jpg                                   filter=(3,3)  F=11.74  h=9.8971  detected=YES
+[DEFECT]  273.jpg                                   filter=(3,0)  F=10.59  h=13.4006  detected=YES
+[DEFECT]  274.jpg                                   filter=(3,3)  F=14.19  h=10.3227  detected=YES
+[DEFECT]  275.jpg                                   filter=(3,5)  F=10.84  h=12.1289  detected=YES
+[DEFECT]  276.jpg                                   filter=(3,1)  F=10.20  h=13.6749  detected=YES
+[DEFECT]  277.jpg                                   filter=(3,4)  F=24.84  h=5.3880  detected=YES
+[DEFECT]  278.jpg                                   filter=(3,1)  F=8.61  h=16.6570  detected=YES
+[DEFECT]  279.jpg                                   filter=(3,0)  F=6.66  h=25.2664  detected=YES
+[DEFECT]  28.jpg                                    filter=(3,1)  F=13.51  h=9.5353  detected=YES
+[DEFECT]  280.jpg                                   filter=(3,0)  F=19.22  h=6.3279  detected=YES
+[DEFECT]  281.jpg                                   filter=(3,2)  F=15.39  h=7.5700  detected=YES
+[DEFECT]  282.jpg                                   filter=(3,0)  F=17.72  h=7.4803  detected=YES
+[DEFECT]  283.jpg                                   filter=(3,0)  F=16.12  h=10.1772  detected=YES
+[DEFECT]  284.jpg                                   filter=(3,3)  F=10.27  h=15.3634  detected=YES
+[DEFECT]  285.jpg                                   filter=(3,4)  F=13.89  h=10.9900  detected=YES
+[DEFECT]  286.jpg                                   filter=(3,5)  F=13.09  h=10.2795  detected=YES
+[DEFECT]  287.jpg                                   filter=(3,2)  F=9.15  h=19.0161  detected=YES
+[DEFECT]  288.jpg                                   filter=(3,5)  F=14.20  h=12.8880  detected=YES
+[DEFECT]  289.jpg                                   filter=(3,0)  F=16.96  h=11.7038  detected=YES
+[DEFECT]  29.jpg                                    filter=(3,0)  F=21.94  h=6.6700  detected=YES
+[DEFECT]  290.jpg                                   filter=(3,5)  F=10.11  h=18.1713  detected=YES
+[DEFECT]  291.jpg                                   filter=(3,0)  F=12.82  h=12.4557  detected=YES
+[DEFECT]  292.jpg                                   filter=(3,2)  F=20.74  h=6.5192  detected=YES
+[DEFECT]  293.jpg                                   filter=(3,2)  F=11.69  h=14.1908  detected=YES
+[DEFECT]  294.jpg                                   filter=(3,1)  F=17.63  h=7.4536  detected=YES
+[DEFECT]  295.jpg                                   filter=(3,1)  F=16.68  h=9.9755  detected=YES
+[DEFECT]  296.jpg                                   filter=(3,5)  F=19.98  h=6.3318  detected=YES
+[DEFECT]  297.jpg                                   filter=(3,3)  F=15.14  h=8.5753  detected=YES
+[DEFECT]  298.jpg                                   filter=(3,5)  F=11.95  h=10.2843  detected=YES
+[DEFECT]  299.jpg                                   filter=(3,4)  F=13.48  h=8.6902  detected=YES
+[DEFECT]  3.jpg                                     filter=(1,4)  F=15.57  h=8.7291  detected=YES
+[DEFECT]  30.jpg                                    filter=(3,0)  F=15.27  h=10.8572  detected=YES
+[DEFECT]  300.jpg                                   filter=(3,3)  F=12.18  h=11.9442  detected=YES
+[DEFECT]  301.jpg                                   filter=(2,4)  F=16.01  h=8.7592  detected=YES
+[DEFECT]  302.jpg                                   filter=(3,3)  F=11.79  h=12.3659  detected=YES
+[DEFECT]  303.jpg                                   filter=(3,5)  F=18.80  h=7.6219  detected=YES
+[DEFECT]  304.jpg                                   filter=(3,4)  F=12.03  h=13.2731  detected=YES
+[DEFECT]  305.jpg                                   filter=(3,4)  F=10.99  h=10.4139  detected=YES
+[DEFECT]  306.jpg                                   filter=(3,3)  F=9.24  h=14.6815  detected=YES
+[DEFECT]  307.jpg                                   filter=(2,3)  F=24.12  h=8.1445  detected=YES
+[DEFECT]  308.jpg                                   filter=(3,0)  F=9.51  h=13.3674  detected=YES
+[DEFECT]  309.jpg                                   filter=(3,0)  F=9.21  h=17.0463  detected=YES
+[DEFECT]  31.jpg                                    filter=(3,3)  F=12.91  h=8.3014  detected=YES
+[DEFECT]  310.jpg                                   filter=(3,2)  F=12.45  h=13.1218  detected=YES
+[DEFECT]  311.jpg                                   filter=(3,3)  F=8.81  h=13.5008  detected=YES
+[DEFECT]  312.jpg                                   filter=(3,4)  F=15.52  h=12.1052  detected=YES
+[DEFECT]  313.jpg                                   filter=(3,4)  F=10.21  h=12.1875  detected=YES
+[DEFECT]  314.jpg                                   filter=(3,0)  F=18.44  h=8.2935  detected=YES
+[DEFECT]  315.jpg                                   filter=(3,0)  F=27.29  h=6.7106  detected=YES
+[DEFECT]  316.jpg                                   filter=(3,0)  F=10.42  h=13.8109  detected=YES
+[DEFECT]  317.jpg                                   filter=(3,3)  F=12.37  h=10.6198  detected=YES
+[DEFECT]  318.jpg                                   filter=(3,5)  F=28.23  h=6.3839  detected=YES
+[DEFECT]  319.jpg                                   filter=(3,5)  F=6.21  h=19.3380  detected=YES
+[DEFECT]  32.jpg                                    filter=(3,3)  F=11.98  h=8.3864  detected=YES
+[DEFECT]  320.jpg                                   filter=(3,0)  F=14.15  h=11.7761  detected=YES
+[DEFECT]  321.jpg                                   filter=(3,3)  F=12.89  h=10.2843  detected=YES
+[DEFECT]  322.jpg                                   filter=(3,0)  F=11.05  h=11.4966  detected=YES
+[DEFECT]  323.jpg                                   filter=(3,4)  F=10.63  h=13.8050  detected=YES
+[DEFECT]  324.jpg                                   filter=(3,4)  F=24.81  h=8.2563  detected=YES
+[DEFECT]  325.jpg                                   filter=(3,0)  F=14.94  h=9.2308  detected=YES
+[DEFECT]  326.jpg                                   filter=(3,0)  F=9.80  h=6.9309  detected=YES
+[DEFECT]  327.jpg                                   filter=(3,0)  F=6.72  h=18.1179  detected=YES
+[DEFECT]  328.jpg                                   filter=(3,1)  F=8.54  h=15.0521  detected=YES
+[DEFECT]  329.jpg                                   filter=(3,0)  F=7.40  h=17.3559  detected=YES
+[DEFECT]  33.jpg                                    filter=(3,3)  F=9.54  h=16.5997  detected=YES
+[DEFECT]  330.jpg                                   filter=(3,0)  F=17.38  h=10.9563  detected=YES
+[DEFECT]  331.jpg                                   filter=(3,1)  F=10.18  h=15.4800  detected=YES
+[DEFECT]  332.jpg                                   filter=(3,0)  F=6.82  h=14.8254  detected=YES
+[DEFECT]  333.jpg                                   filter=(3,0)  F=8.18  h=13.0041  detected=YES
+[DEFECT]  334.jpg                                   filter=(3,3)  F=11.40  h=14.1356  detected=YES
+[DEFECT]  335.jpg                                   filter=(3,4)  F=29.05  h=5.8531  detected=YES
+[DEFECT]  336.jpg                                   filter=(3,5)  F=20.50  h=9.0554  detected=YES
+[DEFECT]  337.jpg                                   filter=(3,4)  F=6.13  h=18.9158  detected=YES
+[DEFECT]  338.jpg                                   filter=(3,4)  F=6.34  h=17.9000  detected=YES
+[DEFECT]  339.jpg                                   filter=(2,0)  F=13.29  h=8.0022  detected=YES
+[DEFECT]  34.jpg                                    filter=(3,3)  F=24.42  h=6.0653  detected=YES
+[DEFECT]  340.jpg                                   filter=(3,5)  F=13.89  h=10.1657  detected=YES
+[DEFECT]  341.jpg                                   filter=(3,5)  F=11.92  h=12.3144  detected=YES
+[DEFECT]  342.jpg                                   filter=(3,5)  F=10.14  h=9.7054  detected=YES
+[DEFECT]  343.jpg                                   filter=(3,1)  F=6.89  h=12.8098  detected=YES
+[DEFECT]  344.jpg                                   filter=(3,0)  F=9.64  h=17.9187  detected=YES
+[DEFECT]  345.jpg                                   filter=(3,0)  F=11.75  h=9.1787  detected=YES
+[DEFECT]  346.jpg                                   filter=(2,1)  F=8.10  h=17.6374  detected=YES
+[DEFECT]  347.jpg                                   filter=(3,2)  F=10.24  h=14.8143  detected=YES
+[DEFECT]  348.jpg                                   filter=(3,2)  F=6.82  h=19.8382  detected=YES
+[DEFECT]  349.jpg                                   filter=(3,4)  F=7.84  h=13.0514  detected=YES
+[DEFECT]  35.jpg                                    filter=(3,3)  F=12.65  h=10.9613  detected=YES
+[DEFECT]  350.jpg                                   filter=(3,1)  F=16.43  h=9.6715  detected=YES
+[DEFECT]  351.jpg                                   filter=(3,2)  F=14.64  h=11.1008  detected=YES
+[DEFECT]  352.jpg                                   filter=(3,2)  F=16.52  h=11.7619  detected=YES
+[DEFECT]  353.jpg                                   filter=(3,4)  F=18.82  h=8.2806  detected=YES
+[DEFECT]  354.jpg                                   filter=(3,5)  F=7.57  h=15.6834  detected=YES
+[DEFECT]  355.jpg                                   filter=(3,3)  F=19.38  h=10.0526  detected=YES
+[DEFECT]  356.jpg                                   filter=(3,5)  F=11.86  h=12.2576  detected=YES
+[DEFECT]  357.jpg                                   filter=(3,4)  F=20.19  h=9.1251  detected=YES
+[DEFECT]  358.jpg                                   filter=(3,0)  F=10.15  h=10.3156  detected=YES
+[DEFECT]  359.jpg                                   filter=(3,3)  F=9.80  h=13.0296  detected=YES
+[DEFECT]  36.jpg                                    filter=(3,3)  F=7.95  h=17.8323  detected=YES
+[DEFECT]  360.jpg                                   filter=(2,4)  F=21.06  h=5.8462  detected=YES
+[DEFECT]  361.jpg                                   filter=(3,3)  F=9.96  h=11.7256  detected=YES
+[DEFECT]  362.jpg                                   filter=(3,0)  F=12.45  h=9.9510  detected=YES
+[DEFECT]  363.jpg                                   filter=(3,3)  F=19.72  h=6.0162  detected=YES
+[DEFECT]  364.jpg                                   filter=(3,3)  F=10.19  h=9.0558  detected=YES
+[DEFECT]  365.jpg                                   filter=(3,3)  F=11.34  h=11.2896  detected=YES
+[DEFECT]  366.jpg                                   filter=(3,3)  F=9.33  h=12.6361  detected=YES
+[DEFECT]  367.jpg                                   filter=(3,3)  F=23.01  h=6.3585  detected=YES
+[DEFECT]  368.jpg                                   filter=(3,3)  F=13.86  h=9.9643  detected=YES
+[DEFECT]  369.jpg                                   filter=(3,3)  F=13.41  h=9.3189  detected=YES
+[DEFECT]  37.jpg                                    filter=(3,4)  F=29.61  h=4.3868  detected=YES
+[DEFECT]  370.jpg                                   filter=(3,3)  F=16.86  h=10.8771  detected=YES
+[DEFECT]  371.jpg                                   filter=(3,3)  F=25.51  h=4.3924  detected=YES
+[DEFECT]  372.jpg                                   filter=(3,0)  F=13.95  h=8.4798  detected=YES
+[DEFECT]  373.jpg                                   filter=(3,4)  F=14.14  h=8.7591  detected=YES
+[DEFECT]  374.jpg                                   filter=(3,3)  F=13.64  h=6.2191  detected=YES
+[DEFECT]  375.jpg                                   filter=(3,3)  F=10.46  h=6.8714  detected=YES
+[DEFECT]  376.jpg                                   filter=(2,3)  F=14.34  h=4.8308  detected=YES
+[DEFECT]  377.jpg                                   filter=(3,3)  F=8.99  h=8.4374  detected=YES
+[DEFECT]  378.jpg                                   filter=(3,3)  F=17.61  h=4.8412  detected=YES
+[DEFECT]  379.jpg                                   filter=(3,2)  F=22.53  h=7.0810  detected=YES
+[DEFECT]  38.jpg                                    filter=(3,4)  F=13.73  h=8.3648  detected=YES
+[DEFECT]  380.jpg                                   filter=(3,3)  F=15.16  h=5.1376  detected=YES
+[DEFECT]  381.jpg                                   filter=(2,3)  F=9.07  h=10.4446  detected=YES
+[DEFECT]  382.jpg                                   filter=(3,3)  F=13.95  h=7.6554  detected=YES
+[DEFECT]  383.jpg                                   filter=(3,1)  F=30.47  h=9.0213  detected=YES
+[DEFECT]  384.jpg                                   filter=(2,4)  F=15.38  h=6.0880  detected=YES
+[DEFECT]  385.jpg                                   filter=(3,2)  F=8.93  h=9.2779  detected=YES
+[DEFECT]  386.jpg                                   filter=(3,0)  F=12.66  h=8.6828  detected=YES
+[DEFECT]  387.jpg                                   filter=(3,0)  F=11.86  h=9.3371  detected=YES
+[DEFECT]  388.jpg                                   filter=(2,0)  F=16.99  h=7.5848  detected=YES
+[DEFECT]  389.jpg                                   filter=(3,0)  F=9.90  h=10.3170  detected=YES
+[DEFECT]  39.jpg                                    filter=(3,2)  F=17.45  h=9.0770  detected=YES
+[DEFECT]  390.jpg                                   filter=(3,2)  F=25.41  h=7.5578  detected=YES
+[DEFECT]  391.jpg                                   filter=(3,3)  F=9.29  h=14.7611  detected=YES
+[DEFECT]  392.jpg                                   filter=(3,5)  F=7.03  h=18.9758  detected=YES
+[DEFECT]  393.jpg                                   filter=(3,4)  F=13.90  h=5.8657  detected=YES
+[DEFECT]  394.jpg                                   filter=(3,5)  F=12.74  h=12.3164  detected=YES
+[DEFECT]  395.jpg                                   filter=(3,3)  F=8.85  h=12.8155  detected=YES
+[DEFECT]  396.jpg                                   filter=(3,1)  F=15.10  h=8.8684  detected=YES
+[DEFECT]  397.jpg                                   filter=(3,2)  F=14.32  h=9.8320  detected=YES
+[DEFECT]  398.jpg                                   filter=(3,4)  F=24.39  h=7.8719  detected=YES
+[DEFECT]  4.jpg                                     filter=(3,4)  F=37.84  h=5.3555  detected=YES
+[DEFECT]  40.jpg                                    filter=(2,3)  F=12.50  h=14.0154  detected=YES
+[DEFECT]  41.jpg                                    filter=(3,4)  F=8.71  h=16.2309  detected=YES
+[DEFECT]  42.jpg                                    filter=(3,3)  F=23.60  h=4.1835  detected=YES
+[DEFECT]  43.jpg                                    filter=(3,3)  F=6.32  h=27.4570  detected=YES
+[DEFECT]  44.jpg                                    filter=(3,0)  F=4.45  h=22.4154  detected=YES
+[DEFECT]  45.jpg                                    filter=(3,0)  F=15.26  h=6.2710  detected=YES
+[DEFECT]  46.jpg                                    filter=(3,1)  F=11.31  h=7.0903  detected=YES
+[DEFECT]  47.jpg                                    filter=(3,0)  F=7.31  h=15.1017  detected=YES
+[DEFECT]  48.jpg                                    filter=(3,0)  F=6.48  h=8.4777  detected=YES
+[DEFECT]  49.jpg                                    filter=(3,0)  F=23.40  h=6.3081  detected=YES
+[DEFECT]  5.jpg                                     filter=(3,1)  F=24.71  h=7.6737  detected=YES
+[DEFECT]  50.jpg                                    filter=(3,0)  F=14.87  h=7.4304  detected=YES
+[DEFECT]  51.jpg                                    filter=(3,3)  F=7.92  h=14.8187  detected=YES
+[DEFECT]  52.jpg                                    filter=(3,0)  F=16.11  h=8.0128  detected=YES
+[DEFECT]  53.jpg                                    filter=(3,4)  F=66.20  h=3.2192  detected=YES
+[DEFECT]  54.jpg                                    filter=(3,4)  F=15.38  h=7.6674  detected=YES
+[DEFECT]  55.jpg                                    filter=(3,4)  F=40.12  h=4.7944  detected=YES
+[DEFECT]  56.jpg                                    filter=(3,1)  F=41.46  h=4.5381  detected=YES
+[DEFECT]  57.jpg                                    filter=(3,3)  F=34.41  h=4.2197  detected=YES
+[DEFECT]  58.jpg                                    filter=(3,4)  F=10.39  h=12.0837  detected=YES
+[DEFECT]  59.jpg                                    filter=(3,0)  F=10.26  h=10.6646  detected=YES
+[DEFECT]  6.jpg                                     filter=(3,5)  F=16.57  h=10.1562  detected=YES
+[DEFECT]  60.jpg                                    filter=(3,4)  F=12.65  h=7.7772  detected=YES
+[DEFECT]  61.jpg                                    filter=(3,0)  F=15.73  h=8.4638  detected=YES
+[DEFECT]  62.jpg                                    filter=(3,1)  F=22.26  h=6.6833  detected=YES
+[DEFECT]  63.jpg                                    filter=(3,2)  F=14.03  h=11.5310  detected=YES
+[DEFECT]  64.jpg                                    filter=(3,4)  F=45.02  h=3.7784  detected=YES
+[DEFECT]  65.jpg                                    filter=(3,2)  F=14.26  h=9.3098  detected=YES
+[DEFECT]  66.jpg                                    filter=(3,1)  F=21.90  h=6.6414  detected=YES
+[DEFECT]  67.jpg                                    filter=(3,1)  F=13.22  h=14.0208  detected=YES
+[DEFECT]  68.jpg                                    filter=(3,2)  F=26.21  h=5.7037  detected=YES
+[DEFECT]  69.jpg                                    filter=(3,0)  F=13.69  h=12.9533  detected=YES
+[DEFECT]  7.jpg                                     filter=(3,2)  F=30.95  h=6.2437  detected=YES
+[DEFECT]  70.jpg                                    filter=(3,3)  F=23.53  h=8.2365  detected=YES
+[DEFECT]  71.jpg                                    filter=(3,0)  F=8.62  h=14.6756  detected=YES
+[DEFECT]  72.jpg                                    filter=(3,3)  F=12.92  h=7.6515  detected=YES
+[DEFECT]  73.jpg                                    filter=(3,3)  F=17.50  h=5.0190  detected=YES
+[DEFECT]  74.jpg                                    filter=(3,4)  F=7.32  h=11.9323  detected=YES
+[DEFECT]  75.jpg                                    filter=(3,5)  F=22.67  h=8.2194  detected=YES
+[DEFECT]  76.jpg                                    filter=(3,5)  F=21.15  h=7.8879  detected=YES
+[DEFECT]  77.jpg                                    filter=(3,4)  F=16.97  h=10.1639  detected=YES
+[DEFECT]  78.jpg                                    filter=(3,5)  F=16.05  h=13.3522  detected=YES
+[DEFECT]  79.jpg                                    filter=(3,0)  F=14.53  h=13.3972  detected=YES
+[DEFECT]  8.jpg                                     filter=(3,3)  F=15.03  h=8.8092  detected=YES
+[DEFECT]  80.jpg                                    filter=(3,0)  F=12.70  h=14.9086  detected=YES
+[DEFECT]  81.jpg                                    filter=(3,3)  F=25.36  h=9.7511  detected=YES
+[DEFECT]  82.jpg                                    filter=(3,4)  F=29.63  h=6.2263  detected=YES
+[DEFECT]  83.jpg                                    filter=(3,3)  F=14.07  h=14.6361  detected=YES
+[DEFECT]  84.jpg                                    filter=(3,1)  F=10.33  h=23.1674  detected=YES
+[DEFECT]  85.jpg                                    filter=(3,0)  F=4.58  h=46.2871  detected=YES
+[DEFECT]  86.jpg                                    filter=(1,1)  F=6.26  h=23.0433  detected=YES
+[DEFECT]  87.jpg                                    filter=(3,1)  F=16.81  h=10.4276  detected=YES
+[DEFECT]  88.jpg                                    filter=(3,2)  F=12.46  h=13.3535  detected=YES
+[DEFECT]  89.jpg                                    filter=(3,3)  F=12.50  h=10.6582  detected=YES
+[DEFECT]  9.jpg                                     filter=(3,3)  F=5.29  h=21.9108  detected=YES
+[DEFECT]  90.jpg                                    filter=(3,1)  F=11.66  h=12.9272  detected=YES
+[DEFECT]  91.jpg                                    filter=(3,2)  F=11.71  h=12.6521  detected=YES
+[DEFECT]  92.jpg                                    filter=(3,2)  F=19.46  h=8.4420  detected=YES
+[DEFECT]  93.jpg                                    filter=(3,2)  F=15.62  h=8.7612  detected=YES
+[DEFECT]  94.jpg                                    filter=(3,0)  F=10.39  h=12.3989  detected=YES
+[DEFECT]  95.jpg                                    filter=(3,0)  F=8.90  h=13.3723  detected=YES
+[DEFECT]  96.jpg                                    filter=(3,2)  F=19.30  h=8.5991  detected=YES
+[DEFECT]  97.jpg                                    filter=(3,3)  F=17.97  h=8.8915  detected=YES
+[DEFECT]  98.jpg                                    filter=(3,2)  F=21.90  h=8.5388  detected=YES
+[DEFECT]  99.jpg                                    filter=(3,3)  F=8.97  h=16.0878  detected=YES
+[FREE]    0001_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0001_000_01.png                           filter=(3,3)  F=4.49  false_alarm=no
+[FREE]    0001_000_02.png                           filter=(3,3)  F=7.50  false_alarm=no
+[FREE]    0001_000_03.png                           filter=(0,5)  F=1.92  false_alarm=no
+[FREE]    0001_000_04.png                           filter=(3,3)  F=16.29  false_alarm=YES
+[FREE]    0001_000_05.png                           filter=(3,3)  F=8.17  false_alarm=no
+[FREE]    0001_000_06.png                           filter=(3,3)  F=10.01  false_alarm=YES
+[FREE]    0002_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0002_000_01.png                           filter=(3,3)  F=4.49  false_alarm=no
+[FREE]    0002_000_02.png                           filter=(3,3)  F=7.68  false_alarm=no
+[FREE]    0002_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0002_000_04.png                           filter=(3,3)  F=15.01  false_alarm=YES
+[FREE]    0002_000_05.png                           filter=(3,3)  F=8.27  false_alarm=no
+[FREE]    0002_000_06.png                           filter=(3,3)  F=9.60  false_alarm=YES
+[FREE]    0003_000_00.png                           filter=(3,3)  F=1.71  false_alarm=no
+[FREE]    0003_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0003_000_02.png                           filter=(3,3)  F=7.67  false_alarm=no
+[FREE]    0003_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0003_000_04.png                           filter=(3,3)  F=12.96  false_alarm=YES
+[FREE]    0003_000_05.png                           filter=(3,3)  F=8.25  false_alarm=no
+[FREE]    0003_000_06.png                           filter=(3,3)  F=9.49  false_alarm=YES
+[FREE]    0004_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0004_000_01.png                           filter=(3,3)  F=4.60  false_alarm=no
+[FREE]    0004_000_02.png                           filter=(3,3)  F=7.49  false_alarm=no
+[FREE]    0004_000_03.png                           filter=(0,5)  F=1.93  false_alarm=no
+[FREE]    0004_000_04.png                           filter=(3,3)  F=13.50  false_alarm=YES
+[FREE]    0004_000_05.png                           filter=(3,3)  F=8.22  false_alarm=no
+[FREE]    0004_000_06.png                           filter=(3,3)  F=9.96  false_alarm=YES
+[FREE]    0005_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0005_000_01.png                           filter=(3,3)  F=4.55  false_alarm=no
+[FREE]    0005_000_02.png                           filter=(3,3)  F=7.57  false_alarm=no
+[FREE]    0005_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0005_000_04.png                           filter=(3,3)  F=17.55  false_alarm=YES
+[FREE]    0005_000_05.png                           filter=(3,3)  F=8.28  false_alarm=no
+[FREE]    0005_000_06.png                           filter=(3,3)  F=9.07  false_alarm=YES
+[FREE]    0006_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0006_000_01.png                           filter=(3,3)  F=4.50  false_alarm=no
+[FREE]    0006_000_02.png                           filter=(3,3)  F=7.58  false_alarm=no
+[FREE]    0006_000_03.png                           filter=(0,5)  F=1.96  false_alarm=no
+[FREE]    0006_000_04.png                           filter=(3,3)  F=13.52  false_alarm=YES
+[FREE]    0006_000_05.png                           filter=(3,3)  F=8.24  false_alarm=no
+[FREE]    0006_000_06.png                           filter=(3,3)  F=10.14  false_alarm=YES
+[FREE]    0007_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0007_000_01.png                           filter=(3,3)  F=4.58  false_alarm=no
+[FREE]    0007_000_02.png                           filter=(3,3)  F=7.44  false_alarm=no
+[FREE]    0007_000_03.png                           filter=(0,5)  F=1.93  false_alarm=no
+[FREE]    0007_000_04.png                           filter=(3,3)  F=13.64  false_alarm=YES
+[FREE]    0007_000_05.png                           filter=(3,3)  F=8.37  false_alarm=no
+[FREE]    0007_000_06.png                           filter=(3,3)  F=9.89  false_alarm=YES
+[FREE]    0008_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0008_000_01.png                           filter=(3,3)  F=4.52  false_alarm=no
+[FREE]    0008_000_02.png                           filter=(3,3)  F=7.52  false_alarm=no
+[FREE]    0008_000_03.png                           filter=(3,3)  F=1.92  false_alarm=no
+[FREE]    0008_000_04.png                           filter=(3,3)  F=14.20  false_alarm=YES
+[FREE]    0008_000_05.png                           filter=(3,3)  F=8.30  false_alarm=no
+[FREE]    0008_000_06.png                           filter=(3,3)  F=10.81  false_alarm=YES
+[FREE]    0009_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0009_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0009_000_02.png                           filter=(3,3)  F=7.77  false_alarm=no
+[FREE]    0009_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0009_000_04.png                           filter=(3,3)  F=12.44  false_alarm=YES
+[FREE]    0009_000_05.png                           filter=(3,3)  F=8.09  false_alarm=no
+[FREE]    0009_000_06.png                           filter=(3,3)  F=10.99  false_alarm=YES
+[FREE]    0010_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0010_000_01.png                           filter=(3,3)  F=4.60  false_alarm=no
+[FREE]    0010_000_02.png                           filter=(3,3)  F=7.62  false_alarm=no
+[FREE]    0010_000_03.png                           filter=(0,5)  F=1.94  false_alarm=no
+[FREE]    0010_000_04.png                           filter=(3,3)  F=17.44  false_alarm=YES
+[FREE]    0010_000_05.png                           filter=(3,3)  F=8.14  false_alarm=no
+[FREE]    0010_000_06.png                           filter=(3,3)  F=11.04  false_alarm=YES
+[FREE]    0011_000_00.png                           filter=(3,3)  F=1.82  false_alarm=no
+[FREE]    0011_000_01.png                           filter=(3,3)  F=4.68  false_alarm=no
+[FREE]    0011_000_02.png                           filter=(3,3)  F=8.23  false_alarm=no
+[FREE]    0011_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0011_000_04.png                           filter=(3,3)  F=14.65  false_alarm=YES
+[FREE]    0011_000_05.png                           filter=(2,3)  F=7.41  false_alarm=no
+[FREE]    0011_000_06.png                           filter=(3,3)  F=11.00  false_alarm=YES
+[FREE]    0012_000_00.png                           filter=(3,3)  F=1.83  false_alarm=no
+[FREE]    0012_000_01.png                           filter=(3,3)  F=4.75  false_alarm=no
+[FREE]    0012_000_02.png                           filter=(3,3)  F=8.34  false_alarm=no
+[FREE]    0012_000_03.png                           filter=(0,5)  F=1.99  false_alarm=no
+[FREE]    0012_000_04.png                           filter=(3,3)  F=15.23  false_alarm=YES
+[FREE]    0012_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0012_000_06.png                           filter=(3,3)  F=9.61  false_alarm=YES
+[FREE]    0013_000_00.png                           filter=(3,3)  F=1.80  false_alarm=no
+[FREE]    0013_000_01.png                           filter=(3,3)  F=4.78  false_alarm=no
+[FREE]    0013_000_02.png                           filter=(3,3)  F=8.20  false_alarm=no
+[FREE]    0013_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0013_000_04.png                           filter=(3,3)  F=16.53  false_alarm=YES
+[FREE]    0013_000_05.png                           filter=(2,3)  F=7.28  false_alarm=no
+[FREE]    0013_000_06.png                           filter=(3,3)  F=8.88  false_alarm=YES
+[FREE]    0014_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0014_000_01.png                           filter=(3,3)  F=4.71  false_alarm=no
+[FREE]    0014_000_02.png                           filter=(3,3)  F=8.09  false_alarm=no
+[FREE]    0014_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0014_000_04.png                           filter=(3,3)  F=13.97  false_alarm=YES
+[FREE]    0014_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0014_000_06.png                           filter=(3,3)  F=9.99  false_alarm=YES
+[FREE]    0015_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0015_000_01.png                           filter=(3,3)  F=4.59  false_alarm=no
+[FREE]    0015_000_02.png                           filter=(3,3)  F=8.22  false_alarm=no
+[FREE]    0015_000_03.png                           filter=(0,5)  F=1.99  false_alarm=no
+[FREE]    0015_000_04.png                           filter=(3,3)  F=16.72  false_alarm=YES
+[FREE]    0015_000_05.png                           filter=(2,3)  F=7.34  false_alarm=no
+[FREE]    0015_000_06.png                           filter=(3,3)  F=10.86  false_alarm=YES
+[FREE]    0016_000_00.png                           filter=(3,3)  F=1.81  false_alarm=no
+[FREE]    0016_000_01.png                           filter=(3,3)  F=4.69  false_alarm=no
+[FREE]    0016_000_02.png                           filter=(3,3)  F=8.35  false_alarm=no
+[FREE]    0016_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0016_000_04.png                           filter=(3,3)  F=13.46  false_alarm=YES
+[FREE]    0016_000_05.png                           filter=(3,3)  F=7.38  false_alarm=no
+[FREE]    0016_000_06.png                           filter=(3,3)  F=10.81  false_alarm=YES
+[FREE]    0017_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0017_000_01.png                           filter=(3,3)  F=4.59  false_alarm=no
+[FREE]    0017_000_02.png                           filter=(3,3)  F=8.23  false_alarm=no
+[FREE]    0017_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0017_000_04.png                           filter=(3,3)  F=17.89  false_alarm=YES
+[FREE]    0017_000_05.png                           filter=(2,3)  F=7.43  false_alarm=no
+[FREE]    0017_000_06.png                           filter=(3,3)  F=9.50  false_alarm=YES
+[FREE]    0018_000_00.png                           filter=(3,3)  F=1.85  false_alarm=no
+[FREE]    0018_000_01.png                           filter=(3,3)  F=4.76  false_alarm=no
+[FREE]    0018_000_02.png                           filter=(3,3)  F=8.31  false_alarm=no
+[FREE]    0018_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0018_000_04.png                           filter=(3,3)  F=12.89  false_alarm=YES
+[FREE]    0018_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0018_000_06.png                           filter=(3,3)  F=8.93  false_alarm=YES
+[FREE]    0018_00_01.png                            filter=(3,3)  F=4.47  false_alarm=no
+[FREE]    0019_000_00.png                           filter=(3,3)  F=1.81  false_alarm=no
+[FREE]    0019_000_01.png                           filter=(3,3)  F=4.69  false_alarm=no
+[FREE]    0019_000_02.png                           filter=(3,3)  F=8.31  false_alarm=no
+[FREE]    0019_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0019_000_04.png                           filter=(3,3)  F=15.94  false_alarm=YES
+[FREE]    0019_000_05.png                           filter=(2,3)  F=7.42  false_alarm=no
+[FREE]    0019_000_06.png                           filter=(3,3)  F=9.88  false_alarm=YES
+[FREE]    0020_000_00.png                           filter=(3,3)  F=1.83  false_alarm=no
+[FREE]    0020_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0020_000_02.png                           filter=(3,3)  F=8.17  false_alarm=no
+[FREE]    0020_000_03.png                           filter=(0,5)  F=2.04  false_alarm=no
+[FREE]    0020_000_04.png                           filter=(3,3)  F=13.47  false_alarm=YES
+[FREE]    0020_000_05.png                           filter=(2,3)  F=7.37  false_alarm=no
+[FREE]    0020_000_06.png                           filter=(3,3)  F=10.84  false_alarm=YES
+[FREE]    0032baf23e21f7350937506873.jpg            filter=(3,3)  F=13.43  false_alarm=YES
+[FREE]    003dd93df616cc5a0947205376.jpg            filter=(3,0)  F=2.01  false_alarm=no
+[FREE]    0054b76db19ce3f51301044964.jpg            filter=(3,3)  F=8.99  false_alarm=YES
+[FREE]    0064b04d2fac78391315300662.jpg            filter=(3,3)  F=12.25  false_alarm=YES
+[FREE]    006db0539d23543d0933467711.jpg            filter=(3,3)  F=5.76  false_alarm=YES
+[FREE]    00bbd1e4925073350900447056.jpg            filter=(3,4)  F=2.22  false_alarm=no
+[FREE]    00bd30945ae5fb701316505594.jpg            filter=(3,3)  F=9.48  false_alarm=YES
+[FREE]    00ca9ed7df8a72c20943584745.jpg            filter=(3,3)  F=5.34  false_alarm=YES
+[FREE]    00e687ba9dede3141057542136.jpg            filter=(3,4)  F=2.52  false_alarm=no
+[FREE]    010ec075a90a44f11630314333.jpg            filter=(3,3)  F=14.67  false_alarm=YES
+[FREE]    01a2c80a9b760c4a0948039082.jpg            filter=(3,3)  F=12.22  false_alarm=YES
+[FREE]    01a94c9cdafe8c6a1330487011.jpg            filter=(3,3)  F=8.88  false_alarm=YES
+[FREE]    01b042030c76d4cc1057440433.jpg            filter=(3,3)  F=12.66  false_alarm=YES
+[FREE]    01c8c576f9c9f0a80944427783.jpg            filter=(3,3)  F=12.23  false_alarm=YES
+[FREE]    01ee140a884d7c5a1427032603.jpg            filter=(3,3)  F=13.03  false_alarm=YES
+[FREE]    01f66dff6749c5931249171632.jpg            filter=(3,2)  F=12.94  false_alarm=YES
+[FREE]    01fdf4eced45b1b81336361321.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0216fe6b5d3146ad1355551492.jpg            filter=(3,3)  F=11.39  false_alarm=YES
+[FREE]    022b2e2bd0d0877c0816115783.jpg            filter=(3,1)  F=12.66  false_alarm=YES
+[FREE]    028364af97fabbae0802285815.jpg            filter=(3,3)  F=5.95  false_alarm=YES
+[FREE]    02990142a31bc8560847150035.jpg            filter=(3,3)  F=5.63  false_alarm=YES
+[FREE]    036dd9131e7a2cd90820153515.jpg            filter=(3,2)  F=5.43  false_alarm=YES
+[FREE]    036f7007f27e5a2b1606558184.jpg            filter=(3,3)  F=9.56  false_alarm=YES
+[FREE]    03991558d2e244cb0858431304.jpg            filter=(3,3)  F=8.08  false_alarm=YES
+[FREE]    03b9438ca656ce200933279971.jpg            filter=(3,3)  F=8.90  false_alarm=YES
+[FREE]    03fff88ec175924e0836025933.jpg            filter=(3,3)  F=13.78  false_alarm=YES
+[FREE]    0408cd4eeaf4fc121203104846.jpg            filter=(3,2)  F=2.52  false_alarm=no
+[FREE]    041a8ba3bf1261fb0938249572.jpg            filter=(3,3)  F=12.88  false_alarm=YES
+[FREE]    043a8f2cdd3bc5361232141026.jpg            filter=(3,0)  F=1.91  false_alarm=no
+[FREE]    046e2080c1c92b4f0839497422.jpg            filter=(3,3)  F=11.78  false_alarm=YES
+[FREE]    04fd457540e595531006031781.jpg            filter=(3,3)  F=8.07  false_alarm=YES
+[FREE]    0526e526baab17200830084844.jpg            filter=(3,4)  F=7.85  false_alarm=YES
+[FREE]    052a0e8ac3831a8e0851057644.jpg            filter=(3,2)  F=8.80  false_alarm=YES
+[FREE]    0559f6176981d6cd1209158581.jpg            filter=(3,2)  F=2.41  false_alarm=no
+[FREE]    05efb5ce2a545aeb1050031541.jpg            filter=(3,3)  F=2.84  false_alarm=no
+[FREE]    0615ed737d2c3e0f1509102295.jpg            filter=(3,4)  F=4.49  false_alarm=YES
+[FREE]    0619ac2622c309181200237053.jpg            filter=(3,3)  F=13.36  false_alarm=YES
+[FREE]    06a54fa4471262390952538623.jpg            filter=(3,2)  F=12.70  false_alarm=YES
+[FREE]    0711d76a302cfca10914020662.jpg            filter=(3,3)  F=11.29  false_alarm=YES
+[FREE]    073b568db214906d1336263543.jpg            filter=(3,1)  F=12.96  false_alarm=YES
+[FREE]    075823af8f5657c70840131216.jpg            filter=(3,2)  F=2.13  false_alarm=no
+[FREE]    077d6b9c853fb16b1033115415.jpg            filter=(3,1)  F=6.45  false_alarm=YES
+[FREE]    078ac899d33c85ce0801030282.jpg            filter=(3,2)  F=12.94  false_alarm=YES
+[FREE]    07a3aa0679059b5a0943521846.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    07b97059618a52270845385583.jpg            filter=(3,4)  F=13.12  false_alarm=YES
+[FREE]    080818331d3bb71c0948341616.jpg            filter=(3,5)  F=1.93  false_alarm=no
+[FREE]    080dbde1257003b51030077924.jpg            filter=(3,0)  F=8.11  false_alarm=YES
+[FREE]    0818879a8e7529680848321031.jpg            filter=(3,3)  F=4.96  false_alarm=YES
+[FREE]    08899f38de8b46e11534061344.jpg            filter=(3,3)  F=8.50  false_alarm=YES
+[FREE]    08a604008847a22b1027533583.jpg            filter=(3,3)  F=12.60  false_alarm=YES
+[FREE]    08cbb259039638161235506686.jpg            filter=(3,2)  F=2.48  false_alarm=no
+[FREE]    08cbe8cbc0b67faa0838099061.jpg            filter=(3,3)  F=4.23  false_alarm=no
+[FREE]    08dfcc16ef87aa781018304252.jpg            filter=(3,2)  F=13.04  false_alarm=YES
+[FREE]    08e143ee7b1d13ca0943121352.jpg            filter=(3,3)  F=11.71  false_alarm=YES
+[FREE]    08fe68bfb8989bb31419118294.jpg            filter=(3,3)  F=8.66  false_alarm=YES
+[FREE]    09462c6d2c6ab5020939252852.jpg            filter=(3,5)  F=12.32  false_alarm=YES
+[FREE]    0949e00f65ad41ca1332208371.jpg            filter=(3,3)  F=8.79  false_alarm=YES
+[FREE]    096b3ef9df321a880940458611.jpg            filter=(3,3)  F=8.90  false_alarm=YES
+[FREE]    097a3a12f89595aa0835459662.jpg            filter=(3,3)  F=11.23  false_alarm=YES
+[FREE]    098f8707886cac3a0945412043.jpg            filter=(3,3)  F=12.69  false_alarm=YES
+[FREE]    09a17cd181cbf2cc0832118232.jpg            filter=(3,1)  F=11.31  false_alarm=YES
+[FREE]    09a78ad80d7484d41222352782.jpg            filter=(3,3)  F=12.43  false_alarm=YES
+[FREE]    09b42484b76f05370947299432.jpg            filter=(3,3)  F=12.33  false_alarm=YES
+[FREE]    09b7f9f87487008c0911514053.jpg            filter=(3,4)  F=13.64  false_alarm=YES
+[FREE]    09d8e516dc7c158a0827023716.jpg            filter=(3,5)  F=1.94  false_alarm=no
+[FREE]    0a297143a1330b381531520055.jpg            filter=(3,3)  F=4.70  false_alarm=YES
+[FREE]    0a42484bbb3611461054187776.jpg            filter=(3,2)  F=2.49  false_alarm=no
+[FREE]    0a710af85aca048e0828541034.jpg            filter=(3,3)  F=7.97  false_alarm=YES
+[FREE]    0addfbb5fd1b78c00939372175.jpg            filter=(3,3)  F=5.30  false_alarm=YES
+[FREE]    0b3909e21777032a1050031812.jpg            filter=(3,2)  F=11.60  false_alarm=YES
+[FREE]    0b48b885e2586d2f0943121081.jpg            filter=(3,3)  F=8.51  false_alarm=YES
+[FREE]    0b595d337713cfec0835288516.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    0b997c57267191ed0940459143.jpg            filter=(3,3)  F=12.16  false_alarm=YES
+[FREE]    0bb3ad723459bb351313490906.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    0bdd61c7c9709b3a1339325225.jpg            filter=(3,3)  F=5.22  false_alarm=YES
+[FREE]    0bf963f84295b0480824171832.jpg            filter=(3,2)  F=12.60  false_alarm=YES
+[FREE]    0c16fcc4fff10e5c0936100874.jpg            filter=(3,3)  F=8.24  false_alarm=YES
+[FREE]    0c2635281be8ab7d1238525534.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0c476d6dc2367a9f0912239891.jpg            filter=(3,2)  F=8.89  false_alarm=YES
+[FREE]    0c48f59abe9604e50945275045.jpg            filter=(3,3)  F=5.42  false_alarm=YES
+[FREE]    0ca7967948ff4a0d1048071305.jpg            filter=(3,3)  F=5.80  false_alarm=YES
+[FREE]    0cb9507a93fb73121232266452.jpg            filter=(3,3)  F=12.10  false_alarm=YES
+[FREE]    0cc8dc48dd9cd4f21329507731.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0cc8df2194f0192d1353114035.jpg            filter=(3,3)  F=5.42  false_alarm=YES
+[FREE]    0cd44b30685dbfc40838473185.jpg            filter=(3,4)  F=5.49  false_alarm=YES
+[FREE]    0cdc1bf7685dccce0935217961.jpg            filter=(3,1)  F=2.23  false_alarm=no
+[FREE]    0d1f202bc57e43ea0804413376.jpg            filter=(3,4)  F=2.27  false_alarm=no
+[FREE]    0d72f114e34ae0271339324683.jpg            filter=(3,3)  F=12.89  false_alarm=YES
+[FREE]    0de94cbaf2d3c2d21010010806.jpg            filter=(3,2)  F=2.33  false_alarm=no
+[FREE]    0defeb0d48f5d6961251351906.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    0e0076ccbe4dfa920902475424.jpg            filter=(3,2)  F=9.23  false_alarm=YES
+[FREE]    0e24b4a58674cd730832575613.jpg            filter=(3,3)  F=13.74  false_alarm=YES
+[FREE]    0e279141bd06a3250934364833.jpg            filter=(3,3)  F=12.01  false_alarm=YES
+[FREE]    0e28071cb38a65150820152983.jpg            filter=(3,3)  F=11.89  false_alarm=YES
+[FREE]    0e307dc8543eb24c0921181785.jpg            filter=(3,2)  F=5.83  false_alarm=YES
+[FREE]    0e41327a4f2932f51045021316.jpg            filter=(3,1)  F=2.05  false_alarm=no
+[FREE]    0e5620f331a5f5e01302491971.jpg            filter=(3,3)  F=6.50  false_alarm=YES
+[FREE]    0e813a81bec344750833527673.jpg            filter=(3,2)  F=13.46  false_alarm=YES
+[FREE]    0e9bbc68155384040830173216.jpg            filter=(3,5)  F=2.21  false_alarm=no
+[FREE]    0eaf9d9c47f999960817439173.jpg            filter=(3,2)  F=12.62  false_alarm=YES
+[FREE]    0ec2a657a2eead431045328736.jpg            filter=(3,5)  F=2.04  false_alarm=no
+[FREE]    0ee2b8def85047860833529256.jpg            filter=(3,1)  F=1.96  false_alarm=no
+[FREE]    0ee4ca2279f576961335118433.jpg            filter=(3,3)  F=13.27  false_alarm=YES
+[FREE]    0ef41469240b15d50943338476.jpg            filter=(3,1)  F=1.97  false_alarm=no
+[FREE]    0f0a8f546c74d7240923255483.jpg            filter=(3,2)  F=13.36  false_alarm=YES
+[FREE]    0f33f6bb6e2cc9771339324091.jpg            filter=(3,3)  F=3.57  false_alarm=no
+[FREE]    0f7e5011c71c81010805451953.jpg            filter=(3,2)  F=13.30  false_alarm=YES
+[FREE]    0fa357b123c517ed1359242076.jpg            filter=(3,0)  F=2.05  false_alarm=no
+[FREE]    1.jpg                                     filter=(3,2)  F=11.56  false_alarm=YES
+[FREE]    10.jpg                                    filter=(3,0)  F=8.29  false_alarm=YES
+[FREE]    100b08765744f4271234223136.jpg            filter=(3,2)  F=2.50  false_alarm=no
+[FREE]    100c813b5def84ee1302493316.jpg            filter=(3,5)  F=1.92  false_alarm=no
+[FREE]    105c91fa915e646a1335257706.jpg            filter=(3,0)  F=2.12  false_alarm=no
+[FREE]    1085a9e7b148381e1041192214.jpg            filter=(3,3)  F=8.31  false_alarm=YES
+[FREE]    108b9134852fef201024457814.jpg            filter=(3,2)  F=9.09  false_alarm=YES
+[FREE]    1092bd68c4b484761057440714.jpg            filter=(3,4)  F=8.30  false_alarm=YES
+[FREE]    1093ed38cd0c94570901575124.jpg            filter=(3,3)  F=9.20  false_alarm=YES
+[FREE]    109f52150923fc8f1503433314.jpg            filter=(3,3)  F=10.18  false_alarm=YES
+[FREE]    10cf852d520f88f21052412724.jpg            filter=(3,1)  F=8.87  false_alarm=YES
+[FREE]    10dcf41963e415210935218774.jpg            filter=(3,3)  F=8.45  false_alarm=YES
+[FREE]    11.jpg                                    filter=(3,3)  F=9.23  false_alarm=YES
+[FREE]    1100d1eebd163a4b0943370152.jpg            filter=(3,3)  F=11.94  false_alarm=YES
+[FREE]    116ff371cbda63271241042313.jpg            filter=(3,3)  F=13.20  false_alarm=YES
+[FREE]    11800e8b06c5b37f0940213693.jpg            filter=(3,3)  F=13.63  false_alarm=YES
+[FREE]    1193bf1662a69a981221416922.jpg            filter=(3,2)  F=12.25  false_alarm=YES
+[FREE]    11a13cefdedba2420945274503.jpg            filter=(3,3)  F=12.06  false_alarm=YES
+[FREE]    12.jpg                                    filter=(3,3)  F=7.49  false_alarm=YES
+[FREE]    1215c97b412949e01341408343.jpg            filter=(3,3)  F=13.51  false_alarm=YES
+[FREE]    1235bee33b98eb2e0914171661.jpg            filter=(3,3)  F=7.96  false_alarm=YES
+[FREE]    124d4c57441763480836399025.jpg            filter=(3,3)  F=5.69  false_alarm=YES
+[FREE]    12624870015d9ae21316506146.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    129a350c1fbb249d1235268981.jpg            filter=(3,3)  F=5.34  false_alarm=YES
+[FREE]    13.jpg                                    filter=(3,0)  F=12.66  false_alarm=YES
+[FREE]    1311333e9d11b2cf1537443145.jpg            filter=(3,3)  F=4.71  false_alarm=YES
+[FREE]    135d8ef2c9b6be4c0843241112.jpg            filter=(3,0)  F=11.62  false_alarm=YES
+[FREE]    13757a04c51ab79f1345270733.jpg            filter=(3,3)  F=12.98  false_alarm=YES
+[FREE]    138b98d8f5ebf75c1534158954.jpg            filter=(3,3)  F=9.44  false_alarm=YES
+[FREE]    14.jpg                                    filter=(3,0)  F=10.96  false_alarm=YES
+[FREE]    14081687391c95401203461231.jpg            filter=(3,3)  F=2.62  false_alarm=no
+[FREE]    141e436303dc6e060957335402.jpg            filter=(3,2)  F=12.23  false_alarm=YES
+[FREE]    14355a11031311f40913593512.jpg            filter=(3,2)  F=11.99  false_alarm=YES
+[FREE]    14d58c5898f6e48b0928452216.jpg            filter=(3,5)  F=1.92  false_alarm=no
+[FREE]    15.jpg                                    filter=(3,1)  F=7.99  false_alarm=YES

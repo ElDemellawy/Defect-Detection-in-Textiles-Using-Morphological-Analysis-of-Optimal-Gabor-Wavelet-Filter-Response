@@ -1,0 +1,1063 @@
+────────────────────────────────────────────────────────────
+  Gabor filter bank:  M=4 scales × N=6 orientations
+  Frequencies:        U_l=0.01  U_h=0.4
+  Mask size:          33×33
+  Defective images:   281
+  Defect-free images: 1666
+────────────────────────────────────────────────────────────
+
+[DEFECT]  1.jpg                                     filter=(3,5)  F=48.98  h=1.2457  detected=YES
+[DEFECT]  10.jpg                                    filter=(3,5)  F=18.09  h=1.9474  detected=YES
+[DEFECT]  10_processed (1).jpg                      filter=(3,3)  F=0.64  h=5.5110  detected=YES
+[DEFECT]  10_processed (2).jpg                      filter=(3,0)  F=0.58  h=1.4850  detected=YES
+[DEFECT]  10_processed (3).jpg                      filter=(3,2)  F=0.51  h=0.3926  detected=YES
+[DEFECT]  11.jpg                                    filter=(3,2)  F=15.88  h=3.6045  detected=YES
+[DEFECT]  11_processed (1).jpg                      filter=(3,1)  F=0.61  h=4.9378  detected=YES
+[DEFECT]  11_processed (2).jpg                      filter=(3,0)  F=0.57  h=1.9460  detected=YES
+[DEFECT]  11_processed (3).jpg                      filter=(3,2)  F=0.51  h=1.0721  detected=YES
+[DEFECT]  12.jpg                                    filter=(3,0)  F=11.43  h=3.2979  detected=YES
+[DEFECT]  12_processed (1).jpg                      filter=(3,0)  F=0.66  h=4.1606  detected=YES
+[DEFECT]  12_processed (2).jpg                      filter=(3,4)  F=0.59  h=1.7210  detected=YES
+[DEFECT]  12_processed (3).jpg                      filter=(3,3)  F=0.51  h=0.8226  detected=YES
+[DEFECT]  13.jpg                                    filter=(3,5)  F=28.68  h=1.2581  detected=YES
+[DEFECT]  13_processed (1).jpg                      filter=(3,3)  F=0.56  h=1.4520  detected=YES
+[DEFECT]  13_processed (2).jpg                      filter=(3,2)  F=0.54  h=0.9172  detected=YES
+[DEFECT]  13_processed (3).jpg                      filter=(3,4)  F=0.51  h=0.7412  detected=YES
+[DEFECT]  14.jpg                                    filter=(3,5)  F=7.95  h=0.6795  detected=YES
+[DEFECT]  14_processed (1).jpg                      filter=(3,4)  F=0.58  h=2.7820  detected=YES
+[DEFECT]  14_processed (2).jpg                      filter=(3,3)  F=0.54  h=1.7773  detected=YES
+[DEFECT]  14_processed (3).jpg                      filter=(3,3)  F=0.51  h=1.6226  detected=YES
+[DEFECT]  15.jpg                                    filter=(3,0)  F=7.44  h=1.0139  detected=YES
+[DEFECT]  15_processed (1).jpg                      filter=(3,5)  F=0.56  h=3.2069  detected=YES
+[DEFECT]  15_processed (2).jpg                      filter=(3,5)  F=0.52  h=0.7346  detected=YES
+[DEFECT]  15_processed (3).jpg                      filter=(3,1)  F=0.51  h=0.3428  detected=YES
+[DEFECT]  16.jpg                                    filter=(3,0)  F=8.39  h=0.8811  detected=YES
+[DEFECT]  16_processed (1).jpg                      filter=(3,3)  F=0.51  h=0.6211  detected=YES
+[DEFECT]  16_processed (2).jpg                      filter=(3,4)  F=0.51  h=0.5493  detected=YES
+[DEFECT]  16_processed (3).jpg                      filter=(3,4)  F=0.50  h=0.5149  detected=YES
+[DEFECT]  17.jpg                                    filter=(3,1)  F=10.59  h=0.5989  detected=YES
+[DEFECT]  17_processed (1).jpg                      filter=(3,1)  F=0.54  h=3.7469  detected=YES
+[DEFECT]  17_processed (2).jpg                      filter=(3,0)  F=0.54  h=2.1391  detected=YES
+[DEFECT]  17_processed (3).jpg                      filter=(3,0)  F=0.51  h=1.5767  detected=YES
+[DEFECT]  18.jpg                                    filter=(3,2)  F=10.69  h=0.6033  detected=YES
+[DEFECT]  18_processed (1).jpg                      filter=(3,3)  F=0.53  h=1.4918  detected=YES
+[DEFECT]  18_processed (2).jpg                      filter=(3,3)  F=0.52  h=1.1886  detected=YES
+[DEFECT]  18_processed (3).jpg                      filter=(3,3)  F=0.51  h=1.1306  detected=YES
+[DEFECT]  19.jpg                                    filter=(3,4)  F=8.07  h=3.3607  detected=YES
+[DEFECT]  19_processed (1).jpg                      filter=(3,3)  F=0.54  h=1.5049  detected=YES
+[DEFECT]  19_processed (2).jpg                      filter=(3,3)  F=0.61  h=3.1367  detected=YES
+[DEFECT]  19_processed (3).jpg                      filter=(3,3)  F=0.51  h=1.4511  detected=YES
+[DEFECT]  1_processed (1).jpg                       filter=(3,4)  F=0.70  h=26.3483  detected=YES
+[DEFECT]  1_processed (2).jpg                       filter=(3,3)  F=0.67  h=7.7298  detected=YES
+[DEFECT]  1_processed (3).jpg                       filter=(3,3)  F=0.58  h=4.3261  detected=YES
+[DEFECT]  2.jpg                                     filter=(3,1)  F=6.15  h=0.9779  detected=MISSED
+[DEFECT]  20.jpg                                    filter=(3,3)  F=10.69  h=1.3585  detected=YES
+[DEFECT]  20180531_134722.jpg                       filter=(3,4)  F=4.63  h=19.3329  detected=YES
+[DEFECT]  20180531_134730.jpg                       filter=(3,5)  F=3.02  h=30.1831  detected=YES
+[DEFECT]  20180531_135018.jpg                       filter=(3,1)  F=3.56  h=23.6216  detected=YES
+[DEFECT]  20180531_135032(1).jpg                    filter=(3,1)  F=4.73  h=19.9032  detected=YES
+[DEFECT]  20180531_135032.jpg                       filter=(3,1)  F=4.73  h=19.9032  detected=YES
+[DEFECT]  20180531_135038.jpg                       filter=(3,2)  F=4.47  h=21.4288  detected=YES
+[DEFECT]  20180531_135110.jpg                       filter=(3,5)  F=3.04  h=35.8639  detected=YES
+[DEFECT]  20180531_135111.jpg                       filter=(3,5)  F=3.05  h=35.4315  detected=YES
+[DEFECT]  20180531_135129(1).jpg                    filter=(3,2)  F=9.35  h=17.1102  detected=YES
+[DEFECT]  20180531_135129.jpg                       filter=(3,2)  F=9.35  h=17.1102  detected=YES
+[DEFECT]  20180531_135705.jpg                       filter=(3,3)  F=4.20  h=20.3534  detected=YES
+[DEFECT]  20180531_135709.jpg                       filter=(3,3)  F=4.34  h=20.2065  detected=YES
+[DEFECT]  20180531_135742.jpg                       filter=(3,5)  F=3.29  h=39.8037  detected=YES
+[DEFECT]  20180531_135806.jpg                       filter=(3,5)  F=3.82  h=38.9784  detected=YES
+[DEFECT]  20180531_141608.jpg                       filter=(3,1)  F=1.59  h=39.8659  detected=MISSED
+[DEFECT]  20180531_141626.jpg                       filter=(3,2)  F=2.58  h=32.0264  detected=YES
+[DEFECT]  20180531_141640.jpg                       filter=(3,2)  F=1.84  h=29.8669  detected=YES
+[DEFECT]  20_processed (1).jpg                      filter=(3,5)  F=0.55  h=3.0966  detected=YES
+[DEFECT]  20_processed (2).jpg                      filter=(3,5)  F=0.53  h=2.7710  detected=YES
+[DEFECT]  20_processed (3).jpg                      filter=(3,4)  F=0.51  h=2.6762  detected=MISSED
+[DEFECT]  21.jpg                                    filter=(3,4)  F=19.00  h=0.3833  detected=YES
+[DEFECT]  21_processed (1).jpg                      filter=(3,5)  F=0.57  h=3.0195  detected=YES
+[DEFECT]  21_processed (2).jpg                      filter=(3,5)  F=0.54  h=2.3612  detected=YES
+[DEFECT]  21_processed (3).jpg                      filter=(3,0)  F=0.51  h=2.2452  detected=YES
+[DEFECT]  22.jpg                                    filter=(3,1)  F=20.88  h=0.3578  detected=YES
+[DEFECT]  22_processed (1).jpg                      filter=(3,1)  F=0.57  h=2.2808  detected=YES
+[DEFECT]  22_processed (2).jpg                      filter=(3,0)  F=0.54  h=2.1332  detected=YES
+[DEFECT]  22_processed (3).jpg                      filter=(3,0)  F=0.51  h=2.1170  detected=MISSED
+[DEFECT]  23.jpg                                    filter=(3,4)  F=47.93  h=0.2436  detected=YES
+[DEFECT]  23_processed (1).jpg                      filter=(3,4)  F=0.52  h=2.0876  detected=YES
+[DEFECT]  23_processed (2).jpg                      filter=(3,4)  F=0.51  h=1.5524  detected=YES
+[DEFECT]  23_processed (3).jpg                      filter=(3,4)  F=0.51  h=1.4993  detected=YES
+[DEFECT]  24.jpg                                    filter=(3,4)  F=33.33  h=1.2290  detected=YES
+[DEFECT]  24_processed (1).jpg                      filter=(3,4)  F=0.70  h=6.2664  detected=YES
+[DEFECT]  24_processed (2).jpg                      filter=(3,3)  F=0.65  h=2.4499  detected=YES
+[DEFECT]  24_processed (3).jpg                      filter=(3,3)  F=0.51  h=1.1881  detected=YES
+[DEFECT]  25.jpg                                    filter=(3,3)  F=8.23  h=2.4125  detected=YES
+[DEFECT]  25_processed (1).jpg                      filter=(3,3)  F=0.58  h=2.7621  detected=YES
+[DEFECT]  25_processed (2).jpg                      filter=(3,3)  F=0.55  h=1.7204  detected=YES
+[DEFECT]  25_processed (3).jpg                      filter=(3,4)  F=0.52  h=1.3417  detected=YES
+[DEFECT]  26.jpg                                    filter=(3,4)  F=8.84  h=2.1621  detected=YES
+[DEFECT]  26_processed (1).jpg                      filter=(3,2)  F=0.67  h=1.9205  detected=YES
+[DEFECT]  26_processed (2).jpg                      filter=(3,3)  F=0.59  h=0.9714  detected=YES
+[DEFECT]  26_processed (3).jpg                      filter=(3,3)  F=0.52  h=0.4742  detected=YES
+[DEFECT]  27.jpg                                    filter=(3,1)  F=5.50  h=0.2356  detected=YES
+[DEFECT]  27_processed (1).jpg                      filter=(3,4)  F=0.55  h=1.2002  detected=YES
+[DEFECT]  27_processed (2).jpg                      filter=(3,1)  F=0.53  h=0.9605  detected=YES
+[DEFECT]  27_processed (3).jpg                      filter=(3,5)  F=0.51  h=0.7285  detected=YES
+[DEFECT]  28.jpg                                    filter=(3,2)  F=6.26  h=0.7497  detected=YES
+[DEFECT]  28_processed (1).jpg                      filter=(3,3)  F=0.61  h=6.2615  detected=YES
+[DEFECT]  28_processed (2).jpg                      filter=(3,3)  F=0.56  h=4.6901  detected=YES
+[DEFECT]  28_processed (3).jpg                      filter=(3,3)  F=0.51  h=4.2828  detected=YES
+[DEFECT]  29.jpg                                    filter=(3,3)  F=6.23  h=0.6129  detected=YES
+[DEFECT]  29_processed (1).jpg                      filter=(3,3)  F=0.54  h=3.5675  detected=YES
+[DEFECT]  29_processed (2).jpg                      filter=(3,3)  F=0.52  h=3.1300  detected=YES
+[DEFECT]  29_processed (3).jpg                      filter=(3,3)  F=0.51  h=3.0180  detected=MISSED
+[DEFECT]  2_processed (1).jpg                       filter=(3,0)  F=0.55  h=8.4286  detected=YES
+[DEFECT]  2_processed (2).jpg                       filter=(3,0)  F=0.53  h=8.3261  detected=YES
+[DEFECT]  2_processed (3).jpg                       filter=(3,0)  F=0.52  h=8.2875  detected=YES
+[DEFECT]  3.jpg                                     filter=(3,5)  F=44.35  h=0.4949  detected=YES
+[DEFECT]  30.jpg                                    filter=(3,5)  F=7.23  h=0.8970  detected=YES
+[DEFECT]  30_processed (1).jpg                      filter=(3,3)  F=0.56  h=2.6890  detected=YES
+[DEFECT]  30_processed (2).jpg                      filter=(3,3)  F=0.57  h=3.8034  detected=YES
+[DEFECT]  30_processed (3).jpg                      filter=(3,3)  F=0.52  h=2.1174  detected=YES
+[DEFECT]  31.jpg                                    filter=(3,3)  F=6.02  h=0.6136  detected=MISSED
+[DEFECT]  31_processed (1).jpg                      filter=(3,3)  F=0.54  h=2.9676  detected=YES
+[DEFECT]  31_processed (2).jpg                      filter=(3,3)  F=0.53  h=2.8417  detected=YES
+[DEFECT]  31_processed (3).jpg                      filter=(3,3)  F=0.51  h=2.8010  detected=YES
+[DEFECT]  32.jpg                                    filter=(3,1)  F=10.10  h=0.3586  detected=YES
+[DEFECT]  32_processed (1).jpg                      filter=(3,0)  F=0.60  h=2.7265  detected=YES
+[DEFECT]  32_processed (2).jpg                      filter=(3,0)  F=0.56  h=1.0950  detected=YES
+[DEFECT]  32_processed (3).jpg                      filter=(3,2)  F=0.51  h=0.7685  detected=YES
+[DEFECT]  33.jpg                                    filter=(3,3)  F=8.78  h=0.8794  detected=YES
+[DEFECT]  33_processed (1).jpg                      filter=(3,4)  F=0.51  h=1.0260  detected=YES
+[DEFECT]  33_processed (2).jpg                      filter=(3,4)  F=0.51  h=0.9401  detected=YES
+[DEFECT]  33_processed (3).jpg                      filter=(3,4)  F=0.51  h=0.9268  detected=YES
+[DEFECT]  34.jpg                                    filter=(3,3)  F=11.97  h=2.9641  detected=YES
+[DEFECT]  34_processed (1).jpg                      filter=(3,5)  F=0.62  h=2.0041  detected=YES
+[DEFECT]  34_processed (2).jpg                      filter=(3,4)  F=0.57  h=1.2047  detected=YES
+[DEFECT]  34_processed (3).jpg                      filter=(3,0)  F=0.51  h=0.6059  detected=YES
+[DEFECT]  35.jpg                                    filter=(3,3)  F=8.63  h=3.3024  detected=YES
+[DEFECT]  35_processed (1).jpg                      filter=(3,5)  F=0.69  h=6.6674  detected=YES
+[DEFECT]  35_processed (2).jpg                      filter=(3,5)  F=0.59  h=5.0572  detected=YES
+[DEFECT]  35_processed (3).jpg                      filter=(3,0)  F=0.51  h=2.9126  detected=MISSED
+[DEFECT]  36.jpg                                    filter=(3,3)  F=14.57  h=3.8297  detected=YES
+[DEFECT]  36_processed (1).jpg                      filter=(3,2)  F=0.56  h=2.1462  detected=YES
+[DEFECT]  36_processed (2).jpg                      filter=(3,2)  F=0.54  h=1.2464  detected=YES
+[DEFECT]  36_processed (3).jpg                      filter=(3,3)  F=0.52  h=0.5632  detected=YES
+[DEFECT]  37.jpg                                    filter=(3,0)  F=16.36  h=0.6771  detected=YES
+[DEFECT]  37_processed (1).jpg                      filter=(3,3)  F=0.51  h=1.9982  detected=YES
+[DEFECT]  37_processed (2).jpg                      filter=(3,3)  F=0.51  h=1.8649  detected=YES
+[DEFECT]  37_processed (3).jpg                      filter=(3,3)  F=0.51  h=1.8128  detected=YES
+[DEFECT]  38.jpg                                    filter=(3,3)  F=10.75  h=0.4576  detected=YES
+[DEFECT]  38_processed (1).jpg                      filter=(3,3)  F=0.64  h=6.7252  detected=YES
+[DEFECT]  38_processed (2).jpg                      filter=(3,3)  F=0.56  h=2.9855  detected=YES
+[DEFECT]  38_processed (3).jpg                      filter=(3,3)  F=0.51  h=2.4703  detected=YES
+[DEFECT]  39.jpg                                    filter=(3,3)  F=7.23  h=0.6014  detected=YES
+[DEFECT]  39_processed (1).jpg                      filter=(3,4)  F=0.55  h=3.2720  detected=YES
+[DEFECT]  39_processed (2).jpg                      filter=(3,3)  F=0.53  h=1.3109  detected=YES
+[DEFECT]  39_processed (3).jpg                      filter=(3,3)  F=0.51  h=0.6540  detected=YES
+[DEFECT]  3_processed (1).jpg                       filter=(3,3)  F=0.57  h=1.8783  detected=YES
+[DEFECT]  3_processed (2).jpg                       filter=(3,2)  F=0.55  h=1.5192  detected=YES
+[DEFECT]  3_processed (3).jpg                       filter=(3,3)  F=0.51  h=1.1537  detected=YES
+[DEFECT]  4.jpg                                     filter=(3,0)  F=56.38  h=0.8153  detected=YES
+[DEFECT]  40.jpg                                    filter=(3,2)  F=9.09  h=2.5338  detected=YES
+[DEFECT]  40_processed (1).jpg                      filter=(3,2)  F=0.54  h=1.1561  detected=YES
+[DEFECT]  40_processed (2).jpg                      filter=(3,2)  F=0.58  h=2.3424  detected=YES
+[DEFECT]  40_processed (3).jpg                      filter=(3,4)  F=0.51  h=0.3755  detected=YES
+[DEFECT]  41.jpg                                    filter=(3,2)  F=21.52  h=1.6169  detected=YES
+[DEFECT]  41_processed (1).jpg                      filter=(3,0)  F=0.53  h=1.1216  detected=YES
+[DEFECT]  41_processed (2).jpg                      filter=(3,1)  F=0.53  h=0.7184  detected=YES
+[DEFECT]  41_processed (3).jpg                      filter=(3,0)  F=0.51  h=0.5162  detected=YES
+[DEFECT]  42.jpg                                    filter=(3,1)  F=15.28  h=2.3230  detected=YES
+[DEFECT]  42_processed (1).jpg                      filter=(3,3)  F=0.66  h=7.1462  detected=YES
+[DEFECT]  42_processed (2).jpg                      filter=(3,1)  F=0.59  h=1.4493  detected=YES
+[DEFECT]  42_processed (3).jpg                      filter=(3,0)  F=0.51  h=0.7092  detected=YES
+[DEFECT]  43.jpg                                    filter=(3,4)  F=14.79  h=3.4380  detected=YES
+[DEFECT]  43_processed (1).jpg                      filter=(3,3)  F=0.56  h=2.4684  detected=YES
+[DEFECT]  43_processed (2).jpg                      filter=(3,2)  F=0.54  h=1.1158  detected=YES
+[DEFECT]  43_processed (3).jpg                      filter=(3,5)  F=0.51  h=0.4573  detected=YES
+[DEFECT]  44.jpg                                    filter=(3,1)  F=41.99  h=0.8535  detected=YES
+[DEFECT]  44_processed (1).jpg                      filter=(3,1)  F=0.59  h=3.0491  detected=YES
+[DEFECT]  44_processed (2).jpg                      filter=(3,1)  F=0.57  h=2.2428  detected=YES
+[DEFECT]  44_processed (3).jpg                      filter=(3,1)  F=0.51  h=2.0974  detected=MISSED
+[DEFECT]  45.jpg                                    filter=(3,3)  F=9.11  h=1.1228  detected=YES
+[DEFECT]  45_processed (1).jpg                      filter=(3,1)  F=0.54  h=3.9877  detected=YES
+[DEFECT]  45_processed (2).jpg                      filter=(3,5)  F=0.54  h=1.1473  detected=YES
+[DEFECT]  45_processed (3).jpg                      filter=(3,5)  F=0.51  h=0.4788  detected=YES
+[DEFECT]  46.jpg                                    filter=(3,2)  F=17.17  h=2.8854  detected=YES
+[DEFECT]  46_processed (1).jpg                      filter=(3,4)  F=0.57  h=1.8491  detected=YES
+[DEFECT]  46_processed (2).jpg                      filter=(3,5)  F=0.55  h=0.9690  detected=YES
+[DEFECT]  46_processed (3).jpg                      filter=(3,5)  F=0.51  h=0.5624  detected=YES
+[DEFECT]  4_processed (1).jpg                       filter=(3,3)  F=0.61  h=3.6200  detected=YES
+[DEFECT]  4_processed (2).jpg                       filter=(3,1)  F=0.57  h=1.7988  detected=YES
+[DEFECT]  4_processed (3).jpg                       filter=(3,1)  F=0.51  h=1.2953  detected=YES
+[DEFECT]  5.jpg                                     filter=(3,1)  F=37.14  h=0.8486  detected=YES
+[DEFECT]  5_processed (1).jpg                       filter=(3,0)  F=0.57  h=8.3089  detected=YES
+[DEFECT]  5_processed (2).jpg                       filter=(3,0)  F=0.57  h=1.3011  detected=YES
+[DEFECT]  5_processed (3).jpg                       filter=(3,4)  F=0.51  h=0.6265  detected=YES
+[DEFECT]  6.jpg                                     filter=(3,4)  F=9.44  h=0.8277  detected=YES
+[DEFECT]  6_processed (1).jpg                       filter=(3,2)  F=0.55  h=2.2183  detected=YES
+[DEFECT]  6_processed (2).jpg                       filter=(3,1)  F=0.55  h=1.0331  detected=YES
+[DEFECT]  6_processed (3).jpg                       filter=(3,2)  F=0.51  h=0.5698  detected=YES
+[DEFECT]  7.jpg                                     filter=(3,0)  F=9.45  h=0.3954  detected=YES
+[DEFECT]  7_processed (1).jpg                       filter=(3,1)  F=0.64  h=4.7158  detected=YES
+[DEFECT]  7_processed (2).jpg                       filter=(3,3)  F=0.59  h=1.4773  detected=YES
+[DEFECT]  7_processed (3).jpg                       filter=(3,1)  F=0.52  h=1.0001  detected=YES
+[DEFECT]  8.jpg                                     filter=(3,0)  F=31.87  h=2.3772  detected=YES
+[DEFECT]  8_processed (1).jpg                       filter=(3,0)  F=0.56  h=2.3566  detected=YES
+[DEFECT]  8_processed (2).jpg                       filter=(3,1)  F=0.56  h=0.8831  detected=YES
+[DEFECT]  8_processed (3).jpg                       filter=(3,2)  F=0.51  h=0.6022  detected=YES
+[DEFECT]  9.jpg                                     filter=(3,3)  F=14.26  h=0.5009  detected=YES
+[DEFECT]  9_processed (1).jpg                       filter=(3,5)  F=0.53  h=2.1002  detected=YES
+[DEFECT]  9_processed (2).jpg                       filter=(3,5)  F=0.52  h=1.6643  detected=YES
+[DEFECT]  9_processed (3).jpg                       filter=(3,5)  F=0.51  h=1.4563  detected=YES
+[DEFECT]  hole_2018-10-11 12_59_30.056485.jpg       filter=(3,0)  F=4.35  h=8.6840  detected=YES
+[DEFECT]  hole_2018-10-11 13_00_10.730645.jpg       filter=(3,0)  F=4.82  h=7.1823  detected=YES
+[DEFECT]  hole_2018-10-11 13_00_42.121788.jpg       filter=(3,5)  F=2.81  h=16.5283  detected=YES
+[DEFECT]  hole_2018-10-11 13_02_35.105904.jpg       filter=(3,0)  F=5.55  h=13.7299  detected=YES
+[DEFECT]  hole_2018-10-11 13_04_48.080166.jpg       filter=(3,5)  F=11.26  h=4.7198  detected=YES
+[DEFECT]  hole_2018-10-11 13_05_41.259441.jpg       filter=(3,5)  F=2.19  h=11.3538  detected=YES
+[DEFECT]  hole_2018-10-11 13_06_28.336497.jpg       filter=(3,5)  F=11.24  h=4.5731  detected=YES
+[DEFECT]  hole_2018-10-11 13_07_10.156329.jpg       filter=(3,5)  F=3.88  h=13.4886  detected=YES
+[DEFECT]  hole_2018-10-11 13_07_50.381094.jpg       filter=(3,0)  F=7.62  h=11.5849  detected=YES
+[DEFECT]  hole_2018-10-11 13_08_30.676740.jpg       filter=(3,0)  F=2.21  h=8.9869  detected=YES
+[DEFECT]  hole_2018-10-11 13_09_04.072143.jpg       filter=(3,5)  F=1.39  h=6.4437  detected=YES
+[DEFECT]  hole_2018-10-11 13_10_26.056443.jpg       filter=(3,2)  F=7.80  h=8.5320  detected=YES
+[DEFECT]  hole_2018-10-11 13_11_15.676236.jpg       filter=(3,0)  F=1.36  h=5.9842  detected=YES
+[DEFECT]  hole_2018-10-11 13_11_59.813602.jpg       filter=(3,4)  F=1.79  h=4.9561  detected=YES
+[DEFECT]  hole_2018-10-11 13_12_41.980730.jpg       filter=(3,4)  F=5.10  h=10.8204  detected=YES
+[DEFECT]  hole_2018-10-11 13_13_27.731600.jpg       filter=(3,4)  F=6.25  h=7.1048  detected=YES
+[DEFECT]  hole_2018-10-11 13_14_03.982656.jpg       filter=(3,2)  F=12.58  h=7.3859  detected=YES
+[DEFECT]  hole_2018-10-11 13_15_39.307244.jpg       filter=(3,2)  F=5.37  h=7.5568  detected=YES
+[DEFECT]  hole_2018-10-11 13_16_12.718047.jpg       filter=(3,2)  F=6.11  h=6.6194  detected=YES
+[DEFECT]  hole_2018-10-11 13_16_52.823382.jpg       filter=(3,5)  F=10.24  h=6.0103  detected=YES
+[DEFECT]  hole_2018-10-11 13_17_30.928240.jpg       filter=(3,0)  F=6.46  h=10.4672  detected=YES
+[DEFECT]  hole_2018-10-11 13_19_19.118362.jpg       filter=(3,0)  F=5.01  h=11.5731  detected=YES
+[DEFECT]  hole_2018-10-11 13_22_24.671493.jpg       filter=(3,4)  F=14.15  h=7.4576  detected=YES
+[DEFECT]  hole_2018-10-11 13_23_23.876161.jpg       filter=(3,5)  F=1.45  h=6.9705  detected=YES
+[DEFECT]  hole_2018-10-11 13_24_13.451568.jpg       filter=(3,2)  F=1.67  h=5.4622  detected=YES
+[DEFECT]  hole_2018-10-11 13_25_22.059050.jpg       filter=(3,5)  F=1.85  h=5.9304  detected=YES
+[DEFECT]  hole_2018-10-11 13_25_54.995114.jpg       filter=(3,5)  F=1.54  h=6.8529  detected=YES
+[DEFECT]  hole_2018-10-11 13_26_37.145911.jpg       filter=(3,5)  F=1.66  h=4.9579  detected=YES
+[DEFECT]  hole_2018-10-11 13_27_47.473431.jpg       filter=(3,4)  F=7.06  h=7.2268  detected=YES
+[DEFECT]  hole_2018-10-11 13_29_04.477242.jpg       filter=(3,2)  F=5.42  h=9.0743  detected=YES
+[DEFECT]  hole_2018-10-11 13_29_59.046997.jpg       filter=(3,5)  F=8.41  h=4.7105  detected=YES
+[DEFECT]  hole_2018-10-11 13_31_19.754850.jpg       filter=(3,5)  F=2.58  h=10.1258  detected=YES
+[DEFECT]  hole_2018-10-11 13_34_55.778116.jpg       filter=(3,0)  F=13.39  h=6.1568  detected=YES
+[DEFECT]  hole_2018-10-11 13_36_18.532705.jpg       filter=(3,5)  F=15.76  h=7.8676  detected=YES
+[DEFECT]  hole_2018-10-11 13_37_21.538398.jpg       filter=(3,0)  F=2.00  h=15.2889  detected=MISSED
+[DEFECT]  hole_2018-10-11 13_38_02.614172.jpg       filter=(3,5)  F=2.03  h=16.4282  detected=MISSED
+[DEFECT]  hole_2018-10-11 13_38_50.453176.jpg       filter=(3,0)  F=2.60  h=16.0176  detected=YES
+[DEFECT]  hole_2018-10-11 13_39_55.527452.jpg       filter=(3,0)  F=7.04  h=5.0653  detected=YES
+[DEFECT]  hole_2018-10-11 13_41_12.121443.jpg       filter=(3,5)  F=4.99  h=15.1527  detected=YES
+[DEFECT]  hole_2018-10-11 13_42_09.246088.jpg       filter=(3,4)  F=13.63  h=7.6687  detected=YES
+[DEFECT]  hole_2018-10-11 13_42_53.345032.jpg       filter=(3,0)  F=4.92  h=6.1533  detected=YES
+[DEFECT]  hole_2018-10-11 13_44_23.682320.jpg       filter=(3,0)  F=3.88  h=7.5324  detected=YES
+[DEFECT]  hole_2018-10-11 13_45_00.016723.jpg       filter=(3,0)  F=4.01  h=10.7147  detected=YES
+[DEFECT]  hole_2018-10-11 13_45_38.645199.jpg       filter=(3,0)  F=1.69  h=10.5233  detected=MISSED
+[DEFECT]  hole_2018-10-11 13_46_12.139167.jpg       filter=(3,5)  F=10.52  h=5.1535  detected=YES
+[DEFECT]  hole_2018-10-11 13_47_44.290326.jpg       filter=(3,5)  F=13.70  h=6.7108  detected=YES
+[DEFECT]  hole_2018-10-11 13_49_24.726254.jpg       filter=(3,0)  F=7.53  h=5.6593  detected=YES
+[DEFECT]  hole_2018-10-11 13_49_58.883177.jpg       filter=(3,1)  F=12.78  h=8.2235  detected=YES
+[DEFECT]  hole_2018-10-11 13_51_17.447615.jpg       filter=(3,0)  F=5.02  h=7.9825  detected=YES
+[DEFECT]  hole_2018-10-11 13_53_44.908217.jpg       filter=(3,4)  F=8.55  h=6.1356  detected=YES
+[DEFECT]  hole_2018-10-11 13_54_52.155940.jpg       filter=(3,1)  F=1.44  h=7.1892  detected=YES
+[DEFECT]  hole_2018-10-11 13_56_13.682297.jpg       filter=(3,4)  F=1.43  h=6.3205  detected=YES
+[DEFECT]  hole_2018-10-11 13_56_54.766983.jpg       filter=(3,0)  F=1.58  h=8.5172  detected=YES
+[DEFECT]  hole_2018-10-11 13_57_26.610945.jpg       filter=(3,5)  F=1.44  h=6.5230  detected=YES
+[DEFECT]  hole_2018-10-11 13_58_04.423087.jpg       filter=(3,3)  F=7.99  h=7.1563  detected=YES
+[DEFECT]  hole_2018-10-11 13_59_17.317728.jpg       filter=(3,3)  F=1.45  h=5.2516  detected=YES
+[DEFECT]  hole_2018-10-11 14_00_07.023408.jpg       filter=(3,2)  F=12.07  h=7.8125  detected=YES
+[DEFECT]  hole_2018-10-11 14_03_20.632162.jpg       filter=(3,0)  F=2.33  h=8.4505  detected=YES
+[DEFECT]  hole_2018-10-11 14_04_10.054152.jpg       filter=(3,0)  F=5.78  h=6.6162  detected=YES
+[DEFECT]  hole_2018-10-11 14_05_08.635736.jpg       filter=(3,2)  F=5.81  h=10.1003  detected=YES
+[DEFECT]  hole_2018-10-11 14_09_42.065508.jpg       filter=(3,5)  F=11.18  h=6.0415  detected=YES
+[DEFECT]  hole_2018-10-11 14_10_30.902487.jpg       filter=(3,4)  F=16.04  h=5.6509  detected=YES
+[DEFECT]  hole_2018-10-11 14_12_12.817055.jpg       filter=(3,4)  F=1.53  h=7.2541  detected=YES
+[DEFECT]  hole_2018-10-11 14_12_56.878692.jpg       filter=(3,5)  F=1.34  h=6.1665  detected=YES
+[DEFECT]  hole_2018-10-11 14_14_44.917455.jpg       filter=(3,5)  F=1.30  h=7.3662  detected=YES
+[DEFECT]  hole_2018-10-11 14_15_19.883078.jpg       filter=(3,0)  F=5.86  h=5.2804  detected=YES
+[DEFECT]  hole_2018-10-11 14_16_22.179386.jpg       filter=(3,1)  F=6.66  h=9.7103  detected=YES
+[DEFECT]  hole_2018-10-11 14_19_30.093112.jpg       filter=(3,5)  F=6.40  h=10.0672  detected=YES
+[DEFECT]  hole_2018-10-11 14_20_13.557933.jpg       filter=(3,5)  F=6.79  h=10.0266  detected=YES
+[DEFECT]  hole_2018-10-11 14_21_03.016893.jpg       filter=(3,0)  F=12.77  h=5.8468  detected=YES
+[DEFECT]  line_2018-10-10 09_39_19.705109.jpg       filter=(3,5)  F=9.79  h=4.7291  detected=YES
+[DEFECT]  line_2018-10-11 12_38_10.814979.jpg       filter=(3,5)  F=13.24  h=4.0776  detected=YES
+[DEFECT]  line_2018-10-11 12_38_59.079794.jpg       filter=(3,0)  F=5.57  h=10.7219  detected=YES
+[DEFECT]  line_2018-10-11 12_39_52.246635.jpg       filter=(3,0)  F=2.34  h=10.2655  detected=YES
+[DEFECT]  line_2018-10-11 12_40_36.005306.jpg       filter=(3,0)  F=4.46  h=7.2507  detected=YES
+[DEFECT]  line_2018-10-11 12_41_17.761774.jpg       filter=(3,0)  F=3.05  h=8.3438  detected=YES
+[DEFECT]  line_2018-10-11 12_42_20.761204.jpg       filter=(3,1)  F=9.96  h=6.2338  detected=YES
+[DEFECT]  line_2018-10-11 12_43_04.986904.jpg       filter=(3,0)  F=3.67  h=9.1760  detected=YES
+[DEFECT]  line_2018-10-11 12_43_50.021650.jpg       filter=(3,5)  F=1.86  h=13.9225  detected=MISSED
+[DEFECT]  line_2018-10-11 12_44_47.507978.jpg       filter=(3,5)  F=13.35  h=8.6731  detected=YES
+[FREE]    0001_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0001_000_01.png                           filter=(3,3)  F=4.49  false_alarm=no
+[FREE]    0001_000_02.png                           filter=(3,3)  F=7.50  false_alarm=no
+[FREE]    0001_000_03.png                           filter=(0,5)  F=1.92  false_alarm=no
+[FREE]    0001_000_04.png                           filter=(3,3)  F=16.29  false_alarm=YES
+[FREE]    0001_000_05.png                           filter=(3,3)  F=8.17  false_alarm=no
+[FREE]    0001_000_06.png                           filter=(3,3)  F=10.01  false_alarm=YES
+[FREE]    0002_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0002_000_01.png                           filter=(3,3)  F=4.49  false_alarm=no
+[FREE]    0002_000_02.png                           filter=(3,3)  F=7.68  false_alarm=no
+[FREE]    0002_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0002_000_04.png                           filter=(3,3)  F=15.01  false_alarm=YES
+[FREE]    0002_000_05.png                           filter=(3,3)  F=8.27  false_alarm=no
+[FREE]    0002_000_06.png                           filter=(3,3)  F=9.60  false_alarm=YES
+[FREE]    0003_000_00.png                           filter=(3,3)  F=1.71  false_alarm=no
+[FREE]    0003_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0003_000_02.png                           filter=(3,3)  F=7.67  false_alarm=no
+[FREE]    0003_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0003_000_04.png                           filter=(3,3)  F=12.96  false_alarm=YES
+[FREE]    0003_000_05.png                           filter=(3,3)  F=8.25  false_alarm=no
+[FREE]    0003_000_06.png                           filter=(3,3)  F=9.49  false_alarm=YES
+[FREE]    0004_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0004_000_01.png                           filter=(3,3)  F=4.60  false_alarm=no
+[FREE]    0004_000_02.png                           filter=(3,3)  F=7.49  false_alarm=no
+[FREE]    0004_000_03.png                           filter=(0,5)  F=1.93  false_alarm=no
+[FREE]    0004_000_04.png                           filter=(3,3)  F=13.50  false_alarm=YES
+[FREE]    0004_000_05.png                           filter=(3,3)  F=8.22  false_alarm=no
+[FREE]    0004_000_06.png                           filter=(3,3)  F=9.96  false_alarm=YES
+[FREE]    0005_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0005_000_01.png                           filter=(3,3)  F=4.55  false_alarm=no
+[FREE]    0005_000_02.png                           filter=(3,3)  F=7.57  false_alarm=no
+[FREE]    0005_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0005_000_04.png                           filter=(3,3)  F=17.55  false_alarm=YES
+[FREE]    0005_000_05.png                           filter=(3,3)  F=8.28  false_alarm=no
+[FREE]    0005_000_06.png                           filter=(3,3)  F=9.07  false_alarm=YES
+[FREE]    0006_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0006_000_01.png                           filter=(3,3)  F=4.50  false_alarm=no
+[FREE]    0006_000_02.png                           filter=(3,3)  F=7.58  false_alarm=no
+[FREE]    0006_000_03.png                           filter=(0,5)  F=1.96  false_alarm=no
+[FREE]    0006_000_04.png                           filter=(3,3)  F=13.52  false_alarm=YES
+[FREE]    0006_000_05.png                           filter=(3,3)  F=8.24  false_alarm=no
+[FREE]    0006_000_06.png                           filter=(3,3)  F=10.14  false_alarm=YES
+[FREE]    0007_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0007_000_01.png                           filter=(3,3)  F=4.58  false_alarm=no
+[FREE]    0007_000_02.png                           filter=(3,3)  F=7.44  false_alarm=no
+[FREE]    0007_000_03.png                           filter=(0,5)  F=1.93  false_alarm=no
+[FREE]    0007_000_04.png                           filter=(3,3)  F=13.64  false_alarm=YES
+[FREE]    0007_000_05.png                           filter=(3,3)  F=8.37  false_alarm=no
+[FREE]    0007_000_06.png                           filter=(3,3)  F=9.89  false_alarm=YES
+[FREE]    0008_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0008_000_01.png                           filter=(3,3)  F=4.52  false_alarm=no
+[FREE]    0008_000_02.png                           filter=(3,3)  F=7.52  false_alarm=no
+[FREE]    0008_000_03.png                           filter=(3,3)  F=1.92  false_alarm=no
+[FREE]    0008_000_04.png                           filter=(3,3)  F=14.20  false_alarm=YES
+[FREE]    0008_000_05.png                           filter=(3,3)  F=8.30  false_alarm=no
+[FREE]    0008_000_06.png                           filter=(3,3)  F=10.81  false_alarm=YES
+[FREE]    0009_000_00.png                           filter=(3,3)  F=1.70  false_alarm=no
+[FREE]    0009_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0009_000_02.png                           filter=(3,3)  F=7.77  false_alarm=no
+[FREE]    0009_000_03.png                           filter=(0,5)  F=1.95  false_alarm=no
+[FREE]    0009_000_04.png                           filter=(3,3)  F=12.44  false_alarm=YES
+[FREE]    0009_000_05.png                           filter=(3,3)  F=8.09  false_alarm=no
+[FREE]    0009_000_06.png                           filter=(3,3)  F=10.99  false_alarm=YES
+[FREE]    0010_000_00.png                           filter=(3,3)  F=1.68  false_alarm=no
+[FREE]    0010_000_01.png                           filter=(3,3)  F=4.60  false_alarm=no
+[FREE]    0010_000_02.png                           filter=(3,3)  F=7.62  false_alarm=no
+[FREE]    0010_000_03.png                           filter=(0,5)  F=1.94  false_alarm=no
+[FREE]    0010_000_04.png                           filter=(3,3)  F=17.44  false_alarm=YES
+[FREE]    0010_000_05.png                           filter=(3,3)  F=8.14  false_alarm=no
+[FREE]    0010_000_06.png                           filter=(3,3)  F=11.04  false_alarm=YES
+[FREE]    0011_000_00.png                           filter=(3,3)  F=1.82  false_alarm=no
+[FREE]    0011_000_01.png                           filter=(3,3)  F=4.68  false_alarm=no
+[FREE]    0011_000_02.png                           filter=(3,3)  F=8.23  false_alarm=no
+[FREE]    0011_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0011_000_04.png                           filter=(3,3)  F=14.65  false_alarm=YES
+[FREE]    0011_000_05.png                           filter=(2,3)  F=7.41  false_alarm=no
+[FREE]    0011_000_06.png                           filter=(3,3)  F=11.00  false_alarm=YES
+[FREE]    0012_000_00.png                           filter=(3,3)  F=1.83  false_alarm=no
+[FREE]    0012_000_01.png                           filter=(3,3)  F=4.75  false_alarm=no
+[FREE]    0012_000_02.png                           filter=(3,3)  F=8.34  false_alarm=no
+[FREE]    0012_000_03.png                           filter=(0,5)  F=1.99  false_alarm=no
+[FREE]    0012_000_04.png                           filter=(3,3)  F=15.23  false_alarm=YES
+[FREE]    0012_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0012_000_06.png                           filter=(3,3)  F=9.61  false_alarm=YES
+[FREE]    0013_000_00.png                           filter=(3,3)  F=1.80  false_alarm=no
+[FREE]    0013_000_01.png                           filter=(3,3)  F=4.78  false_alarm=no
+[FREE]    0013_000_02.png                           filter=(3,3)  F=8.20  false_alarm=no
+[FREE]    0013_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0013_000_04.png                           filter=(3,3)  F=16.53  false_alarm=YES
+[FREE]    0013_000_05.png                           filter=(2,3)  F=7.28  false_alarm=no
+[FREE]    0013_000_06.png                           filter=(3,3)  F=8.88  false_alarm=YES
+[FREE]    0014_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0014_000_01.png                           filter=(3,3)  F=4.71  false_alarm=no
+[FREE]    0014_000_02.png                           filter=(3,3)  F=8.09  false_alarm=no
+[FREE]    0014_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0014_000_04.png                           filter=(3,3)  F=13.97  false_alarm=YES
+[FREE]    0014_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0014_000_06.png                           filter=(3,3)  F=9.99  false_alarm=YES
+[FREE]    0015_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0015_000_01.png                           filter=(3,3)  F=4.59  false_alarm=no
+[FREE]    0015_000_02.png                           filter=(3,3)  F=8.22  false_alarm=no
+[FREE]    0015_000_03.png                           filter=(0,5)  F=1.99  false_alarm=no
+[FREE]    0015_000_04.png                           filter=(3,3)  F=16.72  false_alarm=YES
+[FREE]    0015_000_05.png                           filter=(2,3)  F=7.34  false_alarm=no
+[FREE]    0015_000_06.png                           filter=(3,3)  F=10.86  false_alarm=YES
+[FREE]    0016_000_00.png                           filter=(3,3)  F=1.81  false_alarm=no
+[FREE]    0016_000_01.png                           filter=(3,3)  F=4.69  false_alarm=no
+[FREE]    0016_000_02.png                           filter=(3,3)  F=8.35  false_alarm=no
+[FREE]    0016_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0016_000_04.png                           filter=(3,3)  F=13.46  false_alarm=YES
+[FREE]    0016_000_05.png                           filter=(3,3)  F=7.38  false_alarm=no
+[FREE]    0016_000_06.png                           filter=(3,3)  F=10.81  false_alarm=YES
+[FREE]    0017_000_00.png                           filter=(3,3)  F=1.84  false_alarm=no
+[FREE]    0017_000_01.png                           filter=(3,3)  F=4.59  false_alarm=no
+[FREE]    0017_000_02.png                           filter=(3,3)  F=8.23  false_alarm=no
+[FREE]    0017_000_03.png                           filter=(0,5)  F=2.02  false_alarm=no
+[FREE]    0017_000_04.png                           filter=(3,3)  F=17.89  false_alarm=YES
+[FREE]    0017_000_05.png                           filter=(2,3)  F=7.43  false_alarm=no
+[FREE]    0017_000_06.png                           filter=(3,3)  F=9.50  false_alarm=YES
+[FREE]    0018_000_00.png                           filter=(3,3)  F=1.85  false_alarm=no
+[FREE]    0018_000_01.png                           filter=(3,3)  F=4.76  false_alarm=no
+[FREE]    0018_000_02.png                           filter=(3,3)  F=8.31  false_alarm=no
+[FREE]    0018_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0018_000_04.png                           filter=(3,3)  F=12.89  false_alarm=YES
+[FREE]    0018_000_05.png                           filter=(2,3)  F=7.38  false_alarm=no
+[FREE]    0018_000_06.png                           filter=(3,3)  F=8.93  false_alarm=YES
+[FREE]    0018_00_01.png                            filter=(3,3)  F=4.47  false_alarm=no
+[FREE]    0019_000_00.png                           filter=(3,3)  F=1.81  false_alarm=no
+[FREE]    0019_000_01.png                           filter=(3,3)  F=4.69  false_alarm=no
+[FREE]    0019_000_02.png                           filter=(3,3)  F=8.31  false_alarm=no
+[FREE]    0019_000_03.png                           filter=(0,5)  F=2.00  false_alarm=no
+[FREE]    0019_000_04.png                           filter=(3,3)  F=15.94  false_alarm=YES
+[FREE]    0019_000_05.png                           filter=(2,3)  F=7.42  false_alarm=no
+[FREE]    0019_000_06.png                           filter=(3,3)  F=9.88  false_alarm=YES
+[FREE]    0020_000_00.png                           filter=(3,3)  F=1.83  false_alarm=no
+[FREE]    0020_000_01.png                           filter=(3,3)  F=4.54  false_alarm=no
+[FREE]    0020_000_02.png                           filter=(3,3)  F=8.17  false_alarm=no
+[FREE]    0020_000_03.png                           filter=(0,5)  F=2.04  false_alarm=no
+[FREE]    0020_000_04.png                           filter=(3,3)  F=13.47  false_alarm=YES
+[FREE]    0020_000_05.png                           filter=(2,3)  F=7.37  false_alarm=no
+[FREE]    0020_000_06.png                           filter=(3,3)  F=10.84  false_alarm=YES
+[FREE]    0032baf23e21f7350937506873.jpg            filter=(3,3)  F=13.43  false_alarm=YES
+[FREE]    003dd93df616cc5a0947205376.jpg            filter=(3,0)  F=2.01  false_alarm=no
+[FREE]    0054b76db19ce3f51301044964.jpg            filter=(3,3)  F=8.99  false_alarm=YES
+[FREE]    0064b04d2fac78391315300662.jpg            filter=(3,3)  F=12.25  false_alarm=YES
+[FREE]    006db0539d23543d0933467711.jpg            filter=(3,3)  F=5.76  false_alarm=YES
+[FREE]    00bbd1e4925073350900447056.jpg            filter=(3,4)  F=2.22  false_alarm=no
+[FREE]    00bd30945ae5fb701316505594.jpg            filter=(3,3)  F=9.48  false_alarm=YES
+[FREE]    00ca9ed7df8a72c20943584745.jpg            filter=(3,3)  F=5.34  false_alarm=YES
+[FREE]    00e687ba9dede3141057542136.jpg            filter=(3,4)  F=2.52  false_alarm=no
+[FREE]    010ec075a90a44f11630314333.jpg            filter=(3,3)  F=14.67  false_alarm=YES
+[FREE]    01a2c80a9b760c4a0948039082.jpg            filter=(3,3)  F=12.22  false_alarm=YES
+[FREE]    01a94c9cdafe8c6a1330487011.jpg            filter=(3,3)  F=8.88  false_alarm=YES
+[FREE]    01b042030c76d4cc1057440433.jpg            filter=(3,3)  F=12.66  false_alarm=YES
+[FREE]    01c8c576f9c9f0a80944427783.jpg            filter=(3,3)  F=12.23  false_alarm=YES
+[FREE]    01ee140a884d7c5a1427032603.jpg            filter=(3,3)  F=13.03  false_alarm=YES
+[FREE]    01f66dff6749c5931249171632.jpg            filter=(3,2)  F=12.94  false_alarm=YES
+[FREE]    01fdf4eced45b1b81336361321.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0216fe6b5d3146ad1355551492.jpg            filter=(3,3)  F=11.39  false_alarm=YES
+[FREE]    022b2e2bd0d0877c0816115783.jpg            filter=(3,1)  F=12.66  false_alarm=YES
+[FREE]    028364af97fabbae0802285815.jpg            filter=(3,3)  F=5.95  false_alarm=YES
+[FREE]    02990142a31bc8560847150035.jpg            filter=(3,3)  F=5.63  false_alarm=YES
+[FREE]    036dd9131e7a2cd90820153515.jpg            filter=(3,2)  F=5.43  false_alarm=YES
+[FREE]    036f7007f27e5a2b1606558184.jpg            filter=(3,3)  F=9.56  false_alarm=YES
+[FREE]    03991558d2e244cb0858431304.jpg            filter=(3,3)  F=8.08  false_alarm=YES
+[FREE]    03b9438ca656ce200933279971.jpg            filter=(3,3)  F=8.90  false_alarm=YES
+[FREE]    03fff88ec175924e0836025933.jpg            filter=(3,3)  F=13.78  false_alarm=YES
+[FREE]    0408cd4eeaf4fc121203104846.jpg            filter=(3,2)  F=2.52  false_alarm=no
+[FREE]    041a8ba3bf1261fb0938249572.jpg            filter=(3,3)  F=12.88  false_alarm=YES
+[FREE]    043a8f2cdd3bc5361232141026.jpg            filter=(3,0)  F=1.91  false_alarm=no
+[FREE]    046e2080c1c92b4f0839497422.jpg            filter=(3,3)  F=11.78  false_alarm=YES
+[FREE]    04fd457540e595531006031781.jpg            filter=(3,3)  F=8.07  false_alarm=YES
+[FREE]    0526e526baab17200830084844.jpg            filter=(3,4)  F=7.85  false_alarm=YES
+[FREE]    052a0e8ac3831a8e0851057644.jpg            filter=(3,2)  F=8.80  false_alarm=YES
+[FREE]    0559f6176981d6cd1209158581.jpg            filter=(3,2)  F=2.41  false_alarm=no
+[FREE]    05efb5ce2a545aeb1050031541.jpg            filter=(3,3)  F=2.84  false_alarm=no
+[FREE]    0615ed737d2c3e0f1509102295.jpg            filter=(3,4)  F=4.49  false_alarm=YES
+[FREE]    0619ac2622c309181200237053.jpg            filter=(3,3)  F=13.36  false_alarm=YES
+[FREE]    06a54fa4471262390952538623.jpg            filter=(3,2)  F=12.70  false_alarm=YES
+[FREE]    0711d76a302cfca10914020662.jpg            filter=(3,3)  F=11.29  false_alarm=YES
+[FREE]    073b568db214906d1336263543.jpg            filter=(3,1)  F=12.96  false_alarm=YES
+[FREE]    075823af8f5657c70840131216.jpg            filter=(3,2)  F=2.13  false_alarm=no
+[FREE]    077d6b9c853fb16b1033115415.jpg            filter=(3,1)  F=6.45  false_alarm=YES
+[FREE]    078ac899d33c85ce0801030282.jpg            filter=(3,2)  F=12.94  false_alarm=YES
+[FREE]    07a3aa0679059b5a0943521846.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    07b97059618a52270845385583.jpg            filter=(3,4)  F=13.12  false_alarm=YES
+[FREE]    080818331d3bb71c0948341616.jpg            filter=(3,5)  F=1.93  false_alarm=no
+[FREE]    080dbde1257003b51030077924.jpg            filter=(3,0)  F=8.11  false_alarm=YES
+[FREE]    0818879a8e7529680848321031.jpg            filter=(3,3)  F=4.96  false_alarm=YES
+[FREE]    08899f38de8b46e11534061344.jpg            filter=(3,3)  F=8.50  false_alarm=YES
+[FREE]    08a604008847a22b1027533583.jpg            filter=(3,3)  F=12.60  false_alarm=YES
+[FREE]    08cbb259039638161235506686.jpg            filter=(3,2)  F=2.48  false_alarm=no
+[FREE]    08cbe8cbc0b67faa0838099061.jpg            filter=(3,3)  F=4.23  false_alarm=no
+[FREE]    08dfcc16ef87aa781018304252.jpg            filter=(3,2)  F=13.04  false_alarm=YES
+[FREE]    08e143ee7b1d13ca0943121352.jpg            filter=(3,3)  F=11.71  false_alarm=YES
+[FREE]    08fe68bfb8989bb31419118294.jpg            filter=(3,3)  F=8.66  false_alarm=YES
+[FREE]    09462c6d2c6ab5020939252852.jpg            filter=(3,5)  F=12.32  false_alarm=YES
+[FREE]    0949e00f65ad41ca1332208371.jpg            filter=(3,3)  F=8.79  false_alarm=YES
+[FREE]    096b3ef9df321a880940458611.jpg            filter=(3,3)  F=8.90  false_alarm=YES
+[FREE]    097a3a12f89595aa0835459662.jpg            filter=(3,3)  F=11.23  false_alarm=YES
+[FREE]    098f8707886cac3a0945412043.jpg            filter=(3,3)  F=12.69  false_alarm=YES
+[FREE]    09a17cd181cbf2cc0832118232.jpg            filter=(3,1)  F=11.31  false_alarm=YES
+[FREE]    09a78ad80d7484d41222352782.jpg            filter=(3,3)  F=12.43  false_alarm=YES
+[FREE]    09b42484b76f05370947299432.jpg            filter=(3,3)  F=12.33  false_alarm=YES
+[FREE]    09b7f9f87487008c0911514053.jpg            filter=(3,4)  F=13.64  false_alarm=YES
+[FREE]    09d8e516dc7c158a0827023716.jpg            filter=(3,5)  F=1.94  false_alarm=no
+[FREE]    0a297143a1330b381531520055.jpg            filter=(3,3)  F=4.70  false_alarm=YES
+[FREE]    0a42484bbb3611461054187776.jpg            filter=(3,2)  F=2.49  false_alarm=no
+[FREE]    0a710af85aca048e0828541034.jpg            filter=(3,3)  F=7.97  false_alarm=YES
+[FREE]    0addfbb5fd1b78c00939372175.jpg            filter=(3,3)  F=5.30  false_alarm=YES
+[FREE]    0b3909e21777032a1050031812.jpg            filter=(3,2)  F=11.60  false_alarm=YES
+[FREE]    0b48b885e2586d2f0943121081.jpg            filter=(3,3)  F=8.51  false_alarm=YES
+[FREE]    0b595d337713cfec0835288516.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    0b997c57267191ed0940459143.jpg            filter=(3,3)  F=12.16  false_alarm=YES
+[FREE]    0bb3ad723459bb351313490906.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    0bdd61c7c9709b3a1339325225.jpg            filter=(3,3)  F=5.22  false_alarm=YES
+[FREE]    0bf963f84295b0480824171832.jpg            filter=(3,2)  F=12.60  false_alarm=YES
+[FREE]    0c16fcc4fff10e5c0936100874.jpg            filter=(3,3)  F=8.24  false_alarm=YES
+[FREE]    0c2635281be8ab7d1238525534.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0c476d6dc2367a9f0912239891.jpg            filter=(3,2)  F=8.89  false_alarm=YES
+[FREE]    0c48f59abe9604e50945275045.jpg            filter=(3,3)  F=5.42  false_alarm=YES
+[FREE]    0ca7967948ff4a0d1048071305.jpg            filter=(3,3)  F=5.80  false_alarm=YES
+[FREE]    0cb9507a93fb73121232266452.jpg            filter=(3,3)  F=12.10  false_alarm=YES
+[FREE]    0cc8dc48dd9cd4f21329507731.jpg            filter=(3,3)  F=8.73  false_alarm=YES
+[FREE]    0cc8df2194f0192d1353114035.jpg            filter=(3,3)  F=5.42  false_alarm=YES
+[FREE]    0cd44b30685dbfc40838473185.jpg            filter=(3,4)  F=5.49  false_alarm=YES
+[FREE]    0cdc1bf7685dccce0935217961.jpg            filter=(3,1)  F=2.23  false_alarm=no
+[FREE]    0d1f202bc57e43ea0804413376.jpg            filter=(3,4)  F=2.27  false_alarm=no
+[FREE]    0d72f114e34ae0271339324683.jpg            filter=(3,3)  F=12.89  false_alarm=YES
+[FREE]    0de94cbaf2d3c2d21010010806.jpg            filter=(3,2)  F=2.33  false_alarm=no
+[FREE]    0defeb0d48f5d6961251351906.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    0e0076ccbe4dfa920902475424.jpg            filter=(3,2)  F=9.23  false_alarm=YES
+[FREE]    0e24b4a58674cd730832575613.jpg            filter=(3,3)  F=13.74  false_alarm=YES
+[FREE]    0e279141bd06a3250934364833.jpg            filter=(3,3)  F=12.01  false_alarm=YES
+[FREE]    0e28071cb38a65150820152983.jpg            filter=(3,3)  F=11.89  false_alarm=YES
+[FREE]    0e307dc8543eb24c0921181785.jpg            filter=(3,2)  F=5.83  false_alarm=YES
+[FREE]    0e41327a4f2932f51045021316.jpg            filter=(3,1)  F=2.05  false_alarm=no
+[FREE]    0e5620f331a5f5e01302491971.jpg            filter=(3,3)  F=6.50  false_alarm=YES
+[FREE]    0e813a81bec344750833527673.jpg            filter=(3,2)  F=13.46  false_alarm=YES
+[FREE]    0e9bbc68155384040830173216.jpg            filter=(3,5)  F=2.21  false_alarm=no
+[FREE]    0eaf9d9c47f999960817439173.jpg            filter=(3,2)  F=12.62  false_alarm=YES
+[FREE]    0ec2a657a2eead431045328736.jpg            filter=(3,5)  F=2.04  false_alarm=no
+[FREE]    0ee2b8def85047860833529256.jpg            filter=(3,1)  F=1.96  false_alarm=no
+[FREE]    0ee4ca2279f576961335118433.jpg            filter=(3,3)  F=13.27  false_alarm=YES
+[FREE]    0ef41469240b15d50943338476.jpg            filter=(3,1)  F=1.97  false_alarm=no
+[FREE]    0f0a8f546c74d7240923255483.jpg            filter=(3,2)  F=13.36  false_alarm=YES
+[FREE]    0f33f6bb6e2cc9771339324091.jpg            filter=(3,3)  F=3.57  false_alarm=no
+[FREE]    0f7e5011c71c81010805451953.jpg            filter=(3,2)  F=13.30  false_alarm=YES
+[FREE]    0fa357b123c517ed1359242076.jpg            filter=(3,0)  F=2.05  false_alarm=no
+[FREE]    1.jpg                                     filter=(3,2)  F=11.56  false_alarm=YES
+[FREE]    10.jpg                                    filter=(3,0)  F=8.29  false_alarm=YES
+[FREE]    100b08765744f4271234223136.jpg            filter=(3,2)  F=2.50  false_alarm=no
+[FREE]    100c813b5def84ee1302493316.jpg            filter=(3,5)  F=1.92  false_alarm=no
+[FREE]    105c91fa915e646a1335257706.jpg            filter=(3,0)  F=2.12  false_alarm=no
+[FREE]    1085a9e7b148381e1041192214.jpg            filter=(3,3)  F=8.31  false_alarm=YES
+[FREE]    108b9134852fef201024457814.jpg            filter=(3,2)  F=9.09  false_alarm=YES
+[FREE]    1092bd68c4b484761057440714.jpg            filter=(3,4)  F=8.30  false_alarm=YES
+[FREE]    1093ed38cd0c94570901575124.jpg            filter=(3,3)  F=9.20  false_alarm=YES
+[FREE]    109f52150923fc8f1503433314.jpg            filter=(3,3)  F=10.18  false_alarm=YES
+[FREE]    10cf852d520f88f21052412724.jpg            filter=(3,1)  F=8.87  false_alarm=YES
+[FREE]    10dcf41963e415210935218774.jpg            filter=(3,3)  F=8.45  false_alarm=YES
+[FREE]    11.jpg                                    filter=(3,3)  F=9.23  false_alarm=YES
+[FREE]    1100d1eebd163a4b0943370152.jpg            filter=(3,3)  F=11.94  false_alarm=YES
+[FREE]    116ff371cbda63271241042313.jpg            filter=(3,3)  F=13.20  false_alarm=YES
+[FREE]    11800e8b06c5b37f0940213693.jpg            filter=(3,3)  F=13.63  false_alarm=YES
+[FREE]    1193bf1662a69a981221416922.jpg            filter=(3,2)  F=12.25  false_alarm=YES
+[FREE]    11a13cefdedba2420945274503.jpg            filter=(3,3)  F=12.06  false_alarm=YES
+[FREE]    12.jpg                                    filter=(3,3)  F=7.49  false_alarm=YES
+[FREE]    1215c97b412949e01341408343.jpg            filter=(3,3)  F=13.51  false_alarm=YES
+[FREE]    1235bee33b98eb2e0914171661.jpg            filter=(3,3)  F=7.96  false_alarm=YES
+[FREE]    124d4c57441763480836399025.jpg            filter=(3,3)  F=5.69  false_alarm=YES
+[FREE]    12624870015d9ae21316506146.jpg            filter=(3,5)  F=1.91  false_alarm=no
+[FREE]    129a350c1fbb249d1235268981.jpg            filter=(3,3)  F=5.34  false_alarm=YES
+[FREE]    13.jpg                                    filter=(3,0)  F=12.66  false_alarm=YES
+[FREE]    1311333e9d11b2cf1537443145.jpg            filter=(3,3)  F=4.71  false_alarm=YES
+[FREE]    135d8ef2c9b6be4c0843241112.jpg            filter=(3,0)  F=11.62  false_alarm=YES
+[FREE]    13757a04c51ab79f1345270733.jpg            filter=(3,3)  F=12.98  false_alarm=YES
+[FREE]    138b98d8f5ebf75c1534158954.jpg            filter=(3,3)  F=9.44  false_alarm=YES
+[FREE]    14.jpg                                    filter=(3,0)  F=10.96  false_alarm=YES
+[FREE]    14081687391c95401203461231.jpg            filter=(3,3)  F=2.62  false_alarm=no
+[FREE]    141e436303dc6e060957335402.jpg            filter=(3,2)  F=12.23  false_alarm=YES
+[FREE]    14355a11031311f40913593512.jpg            filter=(3,2)  F=11.99  false_alarm=YES
+[FREE]    14d58c5898f6e48b0928452216.jpg            filter=(3,5)  F=1.92  false_alarm=no
+[FREE]    15.jpg                                    filter=(3,1)  F=7.99  false_alarm=YES
+[FREE]    151cd97f62a1cb410843241373.jpg            filter=(3,3)  F=12.85  false_alarm=YES
+[FREE]    15240e59fb55865d1047305855.jpg            filter=(3,3)  F=5.24  false_alarm=YES
+[FREE]    1531e81eb353daf31345270191.jpg            filter=(3,3)  F=8.46  false_alarm=YES
+[FREE]    153221be55ab2a8d0923026711.jpg            filter=(3,3)  F=7.76  false_alarm=YES
+[FREE]    154169072df34a990935125236.jpg            filter=(3,5)  F=2.57  false_alarm=no
+[FREE]    1558a790919370921238214162.jpg            filter=(3,3)  F=12.50  false_alarm=YES
+[FREE]    155d20a8a2843b360801503883.jpg            filter=(3,3)  F=13.39  false_alarm=YES
+[FREE]    158e4e9aa2c1249c0851012683.jpg            filter=(3,2)  F=13.24  false_alarm=YES
+[FREE]    159073ac2576ff300935387365.jpg            filter=(3,3)  F=5.68  false_alarm=YES
+[FREE]    159f106fd19d73781634029674.jpg            filter=(3,3)  F=10.48  false_alarm=YES
+[FREE]    15b119fc7ad0f0a31629374245.jpg            filter=(3,2)  F=5.42  false_alarm=YES
+[FREE]    15e0efc976c3c0ab0829034521.jpg            filter=(3,3)  F=7.31  false_alarm=YES
+[FREE]    15ff179b830e4f930955528994.jpg            filter=(3,2)  F=9.08  false_alarm=YES
+[FREE]    16.jpg                                    filter=(3,3)  F=7.42  false_alarm=YES
+[FREE]    160c3aaa6b1e1db20800495595.jpg            filter=(3,2)  F=5.65  false_alarm=YES
+[FREE]    161aa211682c9ece1341065711.jpg            filter=(3,3)  F=8.91  false_alarm=YES
+[FREE]    16235167de289ff41048071576.jpg            filter=(3,5)  F=2.04  false_alarm=no
+[FREE]    1638b1cc905b63ab0945047282.jpg            filter=(3,3)  F=11.79  false_alarm=YES
+[FREE]    167d4d22a6fcc56d1339090952.jpg            filter=(3,3)  F=13.19  false_alarm=YES
+[FREE]    17.jpg                                    filter=(3,1)  F=7.13  false_alarm=YES
+[FREE]    1731838b281624560852285043.jpg            filter=(3,3)  F=13.30  false_alarm=YES
+[FREE]    173e9186ff9ac1f70858337303.jpg            filter=(3,2)  F=12.67  false_alarm=YES
+[FREE]    17448d91461707080805399244.jpg            filter=(3,4)  F=9.54  false_alarm=YES
+[FREE]    1744e41be7805f140813438373.jpg            filter=(3,3)  F=13.32  false_alarm=YES
+[FREE]    17ca87c430046b910940213422.jpg            filter=(3,3)  F=11.77  false_alarm=YES
+[FREE]    18.jpg                                    filter=(2,5)  F=12.16  false_alarm=YES
+[FREE]    1818f22590bbf2fc0905031533.jpg            filter=(3,2)  F=12.35  false_alarm=YES
+[FREE]    182e669c7904d78e1056480993.jpg            filter=(3,3)  F=12.60  false_alarm=YES
+[FREE]    18b6260587ba1f621226304201.jpg            filter=(3,3)  F=8.19  false_alarm=YES
+[FREE]    18c2a6b3876245dc0930444371.jpg            filter=(3,2)  F=2.45  false_alarm=no
+[FREE]    18e25485cd3076331003155635.jpg            filter=(3,2)  F=5.55  false_alarm=YES
+[FREE]    18eb34748f15c7230835206755.jpg            filter=(3,0)  F=5.79  false_alarm=YES
+[FREE]    19.jpg                                    filter=(3,5)  F=9.07  false_alarm=YES
+[FREE]    1914772bbd6bfd1b1446321515.jpg            filter=(3,3)  F=4.72  false_alarm=YES
+[FREE]    191daef3e0a4d1ba1531302722.jpg            filter=(3,3)  F=12.40  false_alarm=YES
+[FREE]    19280242639698720802420056.jpg            filter=(3,5)  F=2.04  false_alarm=no
+[FREE]    195e4fb0efd66fd90839084872.jpg            filter=(3,3)  F=11.67  false_alarm=YES
+[FREE]    1981a1e32125d17a0916213383.jpg            filter=(3,3)  F=12.84  false_alarm=YES
+[FREE]    19843026eb821ce61330587543.jpg            filter=(3,3)  F=13.54  false_alarm=YES
+[FREE]    19946108d37d27be0852033241.jpg            filter=(3,3)  F=3.18  false_alarm=no
+[FREE]    19dcb37a988341040855222183.jpg            filter=(3,1)  F=12.22  false_alarm=YES
+[FREE]    19f8c56dc3f3bf5e1340427933.jpg            filter=(3,3)  F=13.63  false_alarm=YES
+[FREE]    1a1ddd99a22a7d660918222763.jpg            filter=(3,3)  F=13.16  false_alarm=YES
+[FREE]    1a6b143fce6b73c91345446574.jpg            filter=(3,1)  F=8.17  false_alarm=YES
+[FREE]    1a8668f1225552211033286152.jpg            filter=(3,3)  F=12.66  false_alarm=YES
+[FREE]    1a8760be53730e580920045181.jpg            filter=(3,3)  F=7.74  false_alarm=YES
+[FREE]    1a897b1eb19e61220824171551.jpg            filter=(3,3)  F=8.34  false_alarm=YES
+[FREE]    1aacfd1a8bc872531636557353.jpg            filter=(3,3)  F=14.59  false_alarm=YES
+[FREE]    1aadc2c2fd5a0b320830172152.jpg            filter=(3,0)  F=11.65  false_alarm=YES
+[FREE]    1aae366099035f070822289912.jpg            filter=(3,0)  F=11.97  false_alarm=YES
+[FREE]    1acc7cb0d7a44f9b1344052743.jpg            filter=(3,3)  F=13.07  false_alarm=YES
+[FREE]    1adf62b0baec3ac00902213444.jpg            filter=(3,2)  F=9.14  false_alarm=YES
+[FREE]    1af38ebd4e300b4f1038332364.jpg            filter=(3,2)  F=8.81  false_alarm=YES
+[FREE]    1af54fe98fb833260923255754.jpg            filter=(3,3)  F=7.95  false_alarm=YES
+[FREE]    1b106842f23cee240841094562.jpg            filter=(3,2)  F=12.09  false_alarm=YES
+[FREE]    1b1fed6ab3d7ac791219590103.jpg            filter=(3,3)  F=12.88  false_alarm=YES
+[FREE]    1b32d0b7cb4da49c0916214186.jpg            filter=(3,0)  F=2.26  false_alarm=no
+[FREE]    1b3e37359e541e831247074685.jpg            filter=(3,3)  F=5.50  false_alarm=YES
+[FREE]    1b5fc667497a40710910308042.jpg            filter=(3,2)  F=11.65  false_alarm=YES
+[FREE]    1b70bf37e3e822260824448286.jpg            filter=(3,5)  F=2.08  false_alarm=no
+[FREE]    1b8e46153e0e59231201265212.jpg            filter=(3,3)  F=12.29  false_alarm=YES
+[FREE]    1b921402f907b2290939371352.jpg            filter=(3,4)  F=12.14  false_alarm=YES
+[FREE]    1be7012e8d3efac40830418025.jpg            filter=(3,0)  F=5.73  false_alarm=YES
+[FREE]    1bed086b40764e9c1004219512.jpg            filter=(3,3)  F=11.78  false_alarm=YES
+[FREE]    1c0be064f5b15ea41029543511.jpg            filter=(3,3)  F=3.97  false_alarm=no
+[FREE]    1c8b15f3d61298de1043223325.jpg            filter=(3,2)  F=5.68  false_alarm=YES
+[FREE]    1c9b77a2fef9849c1248018061.jpg            filter=(3,3)  F=6.08  false_alarm=YES
+[FREE]    1c9d6fa2561695790854465535.jpg            filter=(3,1)  F=5.19  false_alarm=YES
+[FREE]    1d017166671e55e61643344051.jpg            filter=(3,3)  F=9.95  false_alarm=YES
+[FREE]    1d35f4b4db600c1a0801158591.jpg            filter=(3,3)  F=5.55  false_alarm=YES
+[FREE]    1d854f0b2f270b781039287616.jpg            filter=(3,4)  F=2.34  false_alarm=no
+[FREE]    1dad7ed0c753e2b41341407001.jpg            filter=(3,3)  F=8.78  false_alarm=YES
+[FREE]    1db23067c401cf3d0942504472.jpg            filter=(3,3)  F=11.76  false_alarm=YES
+[FREE]    1db987c3fdd5012b1342033902.jpg            filter=(3,3)  F=13.83  false_alarm=YES
+[FREE]    1e293c5f534735041632258414.jpg            filter=(3,5)  F=9.64  false_alarm=YES
+[FREE]    1eebc82f17994fdf1223337804.jpg            filter=(3,5)  F=8.53  false_alarm=YES
+[FREE]    1eeee3298f8e82b70829035063.jpg            filter=(3,3)  F=13.55  false_alarm=YES
+[FREE]    1f3d9d59c0c766480828442636.jpg            filter=(3,0)  F=2.21  false_alarm=no
+[FREE]    1f5dfa8af658f4640914417445.jpg            filter=(3,1)  F=5.31  false_alarm=YES
+[FREE]    1fa7c8738de759421219276085.jpg            filter=(3,0)  F=5.35  false_alarm=YES
+[FREE]    2.jpg                                     filter=(3,0)  F=9.82  false_alarm=YES
+[FREE]    20.jpg                                    filter=(3,0)  F=13.51  false_alarm=YES
+[FREE]    2011b2ba8d8ebdb61057541313.jpg            filter=(3,3)  F=12.77  false_alarm=YES
+[FREE]    201e347d35f272851231466862.jpg            filter=(3,3)  F=11.80  false_alarm=YES
+[FREE]    203d2deafe1531201242285632.jpg            filter=(3,2)  F=12.56  false_alarm=YES
+[FREE]    2048c9053af02b5e0917024744.jpg            filter=(3,3)  F=8.19  false_alarm=YES
+[FREE]    2062ba65ab7964a90813187885.jpg            filter=(3,5)  F=5.67  false_alarm=YES
+[FREE]    20652aa8d34ad93f1236446671.jpg            filter=(3,3)  F=5.76  false_alarm=YES
+[FREE]    2098f72cf4c1f2360816254624.jpg            filter=(3,1)  F=9.81  false_alarm=YES
+[FREE]    20ef5c2e452daeca1346141182.jpg            filter=(3,3)  F=12.56  false_alarm=YES
+[FREE]    21.jpg                                    filter=(3,5)  F=9.25  false_alarm=YES
+[FREE]    211aab3ceda5ac980817187182.jpg            filter=(3,2)  F=11.78  false_alarm=YES
+[FREE]    2173f8d1aaa4e38d1345362265.jpg            filter=(3,3)  F=5.64  false_alarm=YES
+[FREE]    217f9980ea4febf80829405502.jpg            filter=(3,3)  F=11.36  false_alarm=YES
+[FREE]    21841b533ca649910904237872.jpg            filter=(3,3)  F=10.79  false_alarm=YES
+[FREE]    2190fa4cbebda66d1007568724.jpg            filter=(3,1)  F=8.61  false_alarm=YES
+[FREE]    21a1e5eaa4c85ccc0828146816.jpg            filter=(3,0)  F=2.19  false_alarm=no
+[FREE]    21b0c2ce0faac37c0930444913.jpg            filter=(3,3)  F=14.20  false_alarm=YES
+[FREE]    21be2d9effdc1e7b0841029983.jpg            filter=(3,4)  F=13.11  false_alarm=YES
+[FREE]    21ff5c6ea1312b4e1306390291.jpg            filter=(3,3)  F=8.00  false_alarm=YES
+[FREE]    22.jpg                                    filter=(3,0)  F=10.88  false_alarm=YES
+[FREE]    2204da1e8980dfed0800494792.jpg            filter=(3,3)  F=12.70  false_alarm=YES
+[FREE]    2222af4bc89c01fd0853531051.jpg            filter=(3,3)  F=8.07  false_alarm=YES
+[FREE]    223aab26f90713f60844282533.jpg            filter=(3,3)  F=12.80  false_alarm=YES
+[FREE]    225764ed864ddb720801160716.jpg            filter=(3,2)  F=2.18  false_alarm=no
+[FREE]    229d5fd09022ebbf0947028392.jpg            filter=(3,3)  F=12.03  false_alarm=YES
+[FREE]    22d4d262d82ddee91241583493.jpg            filter=(3,0)  F=12.66  false_alarm=YES
+[FREE]    22dc46ab5604e7eb0853371531.jpg            filter=(3,3)  F=8.10  false_alarm=YES
+[FREE]    23.jpg                                    filter=(3,0)  F=11.09  false_alarm=YES
+[FREE]    2312b470ea4654031230097453.jpg            filter=(3,4)  F=12.81  false_alarm=YES
+[FREE]    233afd1eafa3056d0941584215.jpg            filter=(3,2)  F=5.66  false_alarm=YES
+[FREE]    235211a3f650d9081032084574.jpg            filter=(3,3)  F=8.05  false_alarm=YES
+[FREE]    235b077af271c6b51427032051.jpg            filter=(3,2)  F=2.44  false_alarm=no
+[FREE]    2370b14ed0ede2230902213173.jpg            filter=(3,2)  F=12.61  false_alarm=YES
+[FREE]    23a6e743b19b343a0904123962.jpg            filter=(3,3)  F=11.58  false_alarm=YES
+[FREE]    23b93400111c1be71627430161.jpg            filter=(3,1)  F=2.09  false_alarm=no
+[FREE]    23e3fb849fc560f11512091994.jpg            filter=(3,3)  F=9.70  false_alarm=YES
+[FREE]    24.jpg                                    filter=(3,3)  F=9.72  false_alarm=YES
+[FREE]    244fbb444fb4caa81225426952.jpg            filter=(3,3)  F=11.91  false_alarm=YES
+[FREE]    2459b02d867f8e1e1437296715.jpg            filter=(3,3)  F=4.48  false_alarm=YES
+[FREE]    247ef74c851f42330847381875.jpg            filter=(3,1)  F=5.57  false_alarm=YES
+[FREE]    248f7443cf30e4541506154994.jpg            filter=(3,3)  F=9.56  false_alarm=YES
+[FREE]    2496692a79992eaa0935123811.jpg            filter=(3,1)  F=2.25  false_alarm=no
+[FREE]    24ab2242ba2c44d00854360115.jpg            filter=(3,3)  F=5.10  false_alarm=YES
+[FREE]    24b241d52a57821c1056066074.jpg            filter=(3,2)  F=8.81  false_alarm=YES
+[FREE]    24d2ac82c952790b1156587702.jpg            filter=(3,2)  F=11.89  false_alarm=YES
+[FREE]    25.jpg                                    filter=(3,3)  F=14.62  false_alarm=YES
+[FREE]    253c854af7ad49150944428325.jpg            filter=(3,3)  F=5.51  false_alarm=YES
+[FREE]    25519b63b5d651081051362813.jpg            filter=(3,2)  F=12.84  false_alarm=YES
+[FREE]    257c9bd7bdde27e61539304492.jpg            filter=(3,3)  F=12.73  false_alarm=YES
+[FREE]    2595d334043913270846201595.jpg            filter=(3,1)  F=5.31  false_alarm=YES
+[FREE]    259f6e7c3dbfdcdd1233504914.jpg            filter=(3,3)  F=8.16  false_alarm=YES
+[FREE]    259ff1da883a7e4f0825131192.jpg            filter=(3,3)  F=11.37  false_alarm=YES
+[FREE]    25c38677803917991631339751.jpg            filter=(3,3)  F=4.48  false_alarm=YES
+[FREE]    25c54bd352538daf0830002674.jpg            filter=(3,4)  F=7.87  false_alarm=YES
+[FREE]    25d1a5b1b7eb8ac81000124763.jpg            filter=(3,3)  F=13.22  false_alarm=YES
+[FREE]    25d2b42e37dc24d70917316722.jpg            filter=(3,1)  F=11.78  false_alarm=YES
+[FREE]    25e384d402fcc8981056570085.jpg            filter=(3,0)  F=5.50  false_alarm=YES
+[FREE]    25ea1944d38e975a1006490051.jpg            filter=(3,2)  F=2.89  false_alarm=no
+[FREE]    26.jpg                                    filter=(3,1)  F=4.86  false_alarm=YES
+[FREE]    266279fcf18121980905044645.jpg            filter=(3,1)  F=5.56  false_alarm=YES
+[FREE]    26674566434dfa8a1219095384.jpg            filter=(3,1)  F=9.08  false_alarm=YES
+[FREE]    2674c49fbfbffb2c1028312162.jpg            filter=(3,3)  F=12.63  false_alarm=YES
+[FREE]    267aebe83b4570ca1449252132.jpg            filter=(3,3)  F=12.25  false_alarm=YES
+[FREE]    26ab5fd79fd16ac51042392903.jpg            filter=(3,2)  F=13.36  false_alarm=YES
+[FREE]    26f8816d5ea4c95d1514205722.jpg            filter=(3,3)  F=13.04  false_alarm=YES
+[FREE]    27.jpg                                    filter=(3,2)  F=11.08  false_alarm=YES
+[FREE]    27066ee9a72b14f80912504061.jpg            filter=(3,2)  F=2.80  false_alarm=no
+[FREE]    270b50af87ba78401209375335.jpg            filter=(3,2)  F=5.73  false_alarm=YES
+[FREE]    27323b6e77ec6fb80856491633.jpg            filter=(3,0)  F=11.72  false_alarm=YES
+[FREE]    27582f00aac847971342034173.jpg            filter=(3,3)  F=13.57  false_alarm=YES
+[FREE]    2772f5c7d04970eb0858431575.jpg            filter=(3,5)  F=5.09  false_alarm=YES
+[FREE]    27a903e3ed5e53b21641316492.jpg            filter=(3,3)  F=14.57  false_alarm=YES
+[FREE]    27c068426f50c5230921524115.jpg            filter=(3,3)  F=5.10  false_alarm=YES
+[FREE]    28.jpg                                    filter=(3,0)  F=10.64  false_alarm=YES
+[FREE]    28095152dd5ecb931237313373.jpg            filter=(3,3)  F=13.21  false_alarm=YES
+[FREE]    28109c6125ed23900908183956.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    282df79ae890bdd20858430762.jpg            filter=(3,3)  F=11.50  false_alarm=YES
+[FREE]    285fff2196a9077d1531046915.jpg            filter=(3,2)  F=4.37  false_alarm=YES
+[FREE]    28a07cba588225c00943012993.jpg            filter=(3,3)  F=12.17  false_alarm=YES
+[FREE]    28c13e90747b3c2d0938586445.jpg            filter=(3,0)  F=5.62  false_alarm=YES
+[FREE]    28cd6ec9b013a28a0810410222.jpg            filter=(3,2)  F=12.31  false_alarm=YES
+[FREE]    29.jpg                                    filter=(3,4)  F=8.92  false_alarm=YES
+[FREE]    2923bd256793ce9d0842092471.jpg            filter=(3,3)  F=4.46  false_alarm=no
+[FREE]    29572d65d8c82cff0842429841.jpg            filter=(3,3)  F=3.17  false_alarm=no
+[FREE]    2978ab0d2a9066230825132276.jpg            filter=(3,0)  F=2.25  false_alarm=no
+[FREE]    29e58e7eea4fc7bf0856492165.jpg            filter=(3,3)  F=5.47  false_alarm=YES
+[FREE]    29ffbff45dc5a41b0944151982.jpg            filter=(3,3)  F=11.90  false_alarm=YES
+[FREE]    2a40e72d8e569c7d0832119306.jpg            filter=(3,0)  F=2.23  false_alarm=no
+[FREE]    2a85f9d5e9d93f251429264364.jpg            filter=(3,3)  F=8.66  false_alarm=YES
+[FREE]    2aa481e2702eaa151032084022.jpg            filter=(3,3)  F=11.91  false_alarm=YES
+[FREE]    2aa5f2f180a207a71208347156.jpg            filter=(3,5)  F=2.16  false_alarm=no
+[FREE]    2aef60cbb3802b9d1235269794.jpg            filter=(3,3)  F=8.20  false_alarm=YES
+[FREE]    2b56b8d8d992e81d0922412033.jpg            filter=(3,3)  F=13.58  false_alarm=YES
+[FREE]    2b58ce954931c1e50827479081.jpg            filter=(3,3)  F=7.16  false_alarm=YES
+[FREE]    2b5f9d597a9949220854359583.jpg            filter=(3,4)  F=12.83  false_alarm=YES
+[FREE]    2b72970c07ac70ec1602379093.jpg            filter=(3,3)  F=13.48  false_alarm=YES
+[FREE]    2b9f0b67772b99181429263822.jpg            filter=(3,3)  F=11.94  false_alarm=YES
+[FREE]    2c371e6ad900fffb1023010482.jpg            filter=(3,1)  F=12.83  false_alarm=YES
+[FREE]    2cfdf8cb60fdf37c0823185275.jpg            filter=(3,2)  F=5.61  false_alarm=YES
+[FREE]    2d4684430107a5f81606558455.jpg            filter=(3,3)  F=5.31  false_alarm=YES
+[FREE]    2d570d83c7eba9060844281991.jpg            filter=(3,2)  F=2.55  false_alarm=no
+[FREE]    2d8698d9965c14111632006391.jpg            filter=(3,3)  F=5.48  false_alarm=YES
+[FREE]    2e621a3b19c683200841119471.jpg            filter=(3,3)  F=6.17  false_alarm=YES
+[FREE]    2e76a9c267f883cb1223022666.jpg            filter=(3,4)  F=1.96  false_alarm=no
+[FREE]    2e7e2d1eb6b995f80942207856.jpg            filter=(3,1)  F=2.53  false_alarm=no
+[FREE]    2e83c82198a4153b1023306616.jpg            filter=(3,3)  F=2.45  false_alarm=no
+[FREE]    2e912f259a972b771006390723.jpg            filter=(3,3)  F=12.52  false_alarm=YES
+[FREE]    2fba628ad5586ba90844024801.jpg            filter=(3,2)  F=2.60  false_alarm=no
+[FREE]    3.jpg                                     filter=(3,4)  F=18.13  false_alarm=YES
+[FREE]    30.jpg                                    filter=(3,0)  F=8.97  false_alarm=YES
+[FREE]    30385c6b5177704c0940214496.jpg            filter=(3,5)  F=2.56  false_alarm=no
+[FREE]    30453201870cc0971012229882.jpg            filter=(3,3)  F=12.75  false_alarm=YES
+[FREE]    3078718f9346b5ef1630064272.jpg            filter=(3,3)  F=14.70  false_alarm=YES
+[FREE]    30d1e9c6a7a46ec80935508371.jpg            filter=(3,3)  F=8.89  false_alarm=YES
+[FREE]    30e47a58997944a60910025303.jpg            filter=(3,2)  F=13.85  false_alarm=YES
+[FREE]    31.jpg                                    filter=(3,0)  F=7.28  false_alarm=YES
+[FREE]    31003e7971244dce1016241981.jpg            filter=(3,3)  F=3.16  false_alarm=no
+[FREE]    31520acb143e45df1232266723.jpg            filter=(3,3)  F=13.14  false_alarm=YES
+[FREE]    3163eca54451fc570906525845.jpg            filter=(3,2)  F=5.77  false_alarm=YES
+[FREE]    31e872a3fbbf4a791209159394.jpg            filter=(3,1)  F=8.37  false_alarm=YES
+[FREE]    31fed14a025417491240087035.jpg            filter=(3,2)  F=5.63  false_alarm=YES
+[FREE]    32.jpg                                    filter=(3,0)  F=8.37  false_alarm=YES
+[FREE]    3213da970729587d0859045435.jpg            filter=(3,1)  F=5.31  false_alarm=YES
+[FREE]    321ddf262806c3090840599672.jpg            filter=(3,3)  F=11.53  false_alarm=YES
+[FREE]    322e0c89de5abd231338411463.jpg            filter=(3,3)  F=13.11  false_alarm=YES
+[FREE]    326f2f1a1814741a1337296882.jpg            filter=(3,3)  F=13.41  false_alarm=YES
+[FREE]    328243d3df3683861240285252.jpg            filter=(3,3)  F=12.12  false_alarm=YES
+[FREE]    328a454853d019051050032886.jpg            filter=(3,5)  F=2.06  false_alarm=no
+[FREE]    32cdad7e0dae38460820101086.jpg            filter=(3,5)  F=2.20  false_alarm=no
+[FREE]    32d45d13e8b9d1b51342369822.jpg            filter=(3,2)  F=12.70  false_alarm=YES
+[FREE]    33.jpg                                    filter=(3,4)  F=18.67  false_alarm=YES
+[FREE]    3306e722d95e37ec1308544472.jpg            filter=(3,2)  F=12.86  false_alarm=YES
+[FREE]    330cb6a3558cc3841015088461.jpg            filter=(3,3)  F=2.67  false_alarm=no
+[FREE]    333bacc077d2745a0813343675.jpg            filter=(3,3)  F=5.38  false_alarm=YES
+[FREE]    334b972d954ef96d0906525574.jpg            filter=(3,3)  F=8.72  false_alarm=YES
+[FREE]    335593709699999f1042392632.jpg            filter=(3,2)  F=12.13  false_alarm=YES
+[FREE]    33bd571c241a97b00811563825.jpg            filter=(3,1)  F=5.30  false_alarm=YES
+[FREE]    33e9566631fbff4f1342121383.jpg            filter=(3,3)  F=13.94  false_alarm=YES
+[FREE]    33f2cabaf718802c0811564086.jpg            filter=(3,4)  F=2.20  false_alarm=no
+[FREE]    34.jpg                                    filter=(2,0)  F=7.06  false_alarm=YES
+[FREE]    34589a367eb418d21332209475.jpg            filter=(3,3)  F=5.59  false_alarm=YES
+[FREE]    34c3ca3778338b811000208995.jpg            filter=(3,0)  F=5.29  false_alarm=YES
+[FREE]    34deae09ace063100848322386.jpg            filter=(3,5)  F=1.92  false_alarm=no
+[FREE]    34eb541bbc957acb1047038031.jpg            filter=(3,3)  F=3.02  false_alarm=no
+[FREE]    35.jpg                                    filter=(3,4)  F=8.80  false_alarm=YES
+[FREE]    35204892433e84521046127391.jpg            filter=(3,3)  F=2.93  false_alarm=no
+[FREE]    3542316544ac125c0925190301.jpg            filter=(3,3)  F=7.80  false_alarm=YES
+[FREE]    355e2fc598bf3c241023010753.jpg            filter=(3,1)  F=12.73  false_alarm=YES
+[FREE]    35807041ffcb53240812421842.jpg            filter=(3,3)  F=12.85  false_alarm=YES
+[FREE]    35b1268632a2a17e1617362401.jpg            filter=(3,3)  F=2.59  false_alarm=no
+[FREE]    35e5ebb9a93d59dd0842154911.jpg            filter=(3,3)  F=5.77  false_alarm=YES
+[FREE]    35fb8944995faec41630314042.jpg            filter=(3,3)  F=14.70  false_alarm=YES
+[FREE]    36.jpg                                    filter=(3,5)  F=7.89  false_alarm=YES
+[FREE]    364b4e4c6091caff1237006871.jpg            filter=(3,3)  F=7.35  false_alarm=YES
+[FREE]    36ced5064cdbcac30832219554.jpg            filter=(3,3)  F=8.94  false_alarm=YES
+[FREE]    36cf20db3b2534850838226673.jpg            filter=(3,3)  F=11.81  false_alarm=YES
+[FREE]    36cfb29ec6b452bc0839263143.jpg            filter=(3,3)  F=11.31  false_alarm=YES
+[FREE]    37.jpg                                    filter=(3,5)  F=8.60  false_alarm=YES
+[FREE]    373ec7573541a7f10905340781.jpg            filter=(3,3)  F=3.27  false_alarm=no
+[FREE]    37628263563189fc1006491215.jpg            filter=(3,3)  F=5.25  false_alarm=YES
+[FREE]    378c9f780acfec2c0812176371.jpg            filter=(3,3)  F=8.90  false_alarm=YES
+[FREE]    379a54d5d411b5f71053105701.jpg            filter=(3,3)  F=2.80  false_alarm=no
+[FREE]    37b1645b49a5a4a90905030991.jpg            filter=(3,3)  F=4.86  false_alarm=YES
+[FREE]    37b28bc7ae6feb440937185875.jpg            filter=(3,1)  F=5.78  false_alarm=YES
+[FREE]    37d159a2b324fc6b1214271113.jpg            filter=(3,3)  F=12.40  false_alarm=YES
+[FREE]    38.jpg                                    filter=(3,0)  F=11.21  false_alarm=YES
+[FREE]    3800975d980aeca80827479894.jpg            filter=(3,3)  F=8.15  false_alarm=YES
+[FREE]    382bb7109c51bd4b0957336235.jpg            filter=(3,3)  F=5.63  false_alarm=YES
+[FREE]    383eb4fd9509cca71342370103.jpg            filter=(3,3)  F=13.65  false_alarm=YES
+[FREE]    3888cd55e2682e431330487282.jpg            filter=(3,3)  F=14.32  false_alarm=YES
+[FREE]    38a8a7da9927fd4d0941271522.jpg            filter=(3,3)  F=12.21  false_alarm=YES
+[FREE]    38ee425b91ee74b51303270453.jpg            filter=(3,3)  F=12.81  false_alarm=YES
+[FREE]    38f4c2d7cfc461581218216322.jpg            filter=(3,3)  F=12.19  false_alarm=YES
+[FREE]    39.jpg                                    filter=(3,0)  F=8.26  false_alarm=YES
+[FREE]    39052557c5e244b91334562121.jpg            filter=(3,4)  F=8.94  false_alarm=YES
+[FREE]    390991150de709ff1341067056.jpg            filter=(3,0)  F=2.13  false_alarm=no
+[FREE]    390cc535b77ce1580933280252.jpg            filter=(3,3)  F=11.93  false_alarm=YES
+[FREE]    3954fc912c8287731005038311.jpg            filter=(3,3)  F=3.00  false_alarm=no
+[FREE]    3960bc665d5293100907194404.jpg            filter=(3,3)  F=8.53  false_alarm=YES
+[FREE]    39c8b6b19e35f3850940080562.jpg            filter=(3,3)  F=12.05  false_alarm=YES
+[FREE]    39cb7d33f0f673670940371961.jpg            filter=(3,3)  F=8.69  false_alarm=YES
+[FREE]    39e2c9b30edf987b1008491383.jpg            filter=(3,3)  F=13.21  false_alarm=YES
+[FREE]    3a0c735938a89d290825319734.jpg            filter=(3,1)  F=7.92  false_alarm=YES
+[FREE]    3a0e85f159f1178c1200237324.jpg            filter=(3,3)  F=9.16  false_alarm=YES
+[FREE]    3a3756d33d8664501616384674.jpg            filter=(3,1)  F=9.20  false_alarm=YES
+[FREE]    3a5c3494ce3d944e1231329505.jpg            filter=(3,1)  F=5.60  false_alarm=YES
+[FREE]    3a77305ee4bba0d60944152253.jpg            filter=(3,3)  F=11.68  false_alarm=YES
+[FREE]    3a7abca1b081fc1b1616384112.jpg            filter=(3,3)  F=11.99  false_alarm=YES
+[FREE]    3a8613e5f2f39a810908426186.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    3a8b9e494d2badee1024027003.jpg            filter=(3,2)  F=13.08  false_alarm=YES
+[FREE]    3a9df62083e8ba7f1222218522.jpg            filter=(3,4)  F=12.58  false_alarm=YES
+[FREE]    3ae1ba507ffe41bf1602199324.jpg            filter=(3,3)  F=9.73  false_alarm=YES
+[FREE]    3ae88af5aeef17c10916343854.jpg            filter=(3,3)  F=8.07  false_alarm=YES
+[FREE]    3b130926b9743dd01236277412.jpg            filter=(3,3)  F=12.50  false_alarm=YES
+[FREE]    3b3f4cd6561b94f30814427621.jpg            filter=(3,2)  F=2.20  false_alarm=no
+[FREE]    3b67faf1318f3ca40811034035.jpg            filter=(3,1)  F=5.72  false_alarm=YES
+[FREE]    3b7e2ff6910038691626279525.jpg            filter=(3,3)  F=5.23  false_alarm=YES
+[FREE]    3c00ba8a17e5e9d00824300516.jpg            filter=(3,0)  F=2.20  false_alarm=no
+[FREE]    3c01afd55f534d161600078021.jpg            filter=(3,3)  F=3.32  false_alarm=no
+[FREE]    3c2e3d0b145e47921214270802.jpg            filter=(3,3)  F=11.98  false_alarm=YES
+[FREE]    3c303a6c8db122481012229611.jpg            filter=(3,3)  F=4.94  false_alarm=no
+[FREE]    3c41419220dc49251209375054.jpg            filter=(3,4)  F=8.47  false_alarm=YES
+[FREE]    3ca1e1574c40c4ab1505549201.jpg            filter=(3,3)  F=2.94  false_alarm=no
+[FREE]    3cd3bdffc098d4551449252985.jpg            filter=(3,3)  F=4.96  false_alarm=YES
+[FREE]    3ce85210fdd90c590835108753.jpg            filter=(3,2)  F=12.31  false_alarm=YES
+[FREE]    3d1777d274508ccc1240380592.jpg            filter=(3,2)  F=12.56  false_alarm=YES
+[FREE]    3d85ad44d85fb1a10814428966.jpg            filter=(3,4)  F=2.25  false_alarm=no
+[FREE]    3d9e12db2b12d3f40832217933.jpg            filter=(3,3)  F=13.15  false_alarm=YES
+[FREE]    3ddcc4bd753e5ec21337424126.jpg            filter=(3,0)  F=2.11  false_alarm=no
+[FREE]    3e27548dcbbb3d5d0906286526.jpg            filter=(3,5)  F=1.96  false_alarm=no
+[FREE]    3ec1f73a83ddc75a1608466913.jpg            filter=(3,5)  F=13.83  false_alarm=YES
+[FREE]    3ec6c433499eb0811058219014.jpg            filter=(3,4)  F=8.15  false_alarm=YES
+[FREE]    3f1678217aedfdb71234530171.jpg            filter=(3,3)  F=5.93  false_alarm=YES
+[FREE]    3f1dedabc3d14d2f0838226934.jpg            filter=(3,3)  F=8.38  false_alarm=YES
+[FREE]    3f2a1b7805116b110835460475.jpg            filter=(3,4)  F=4.91  false_alarm=YES
+[FREE]    3f37956f686bedf40831341104.jpg            filter=(3,3)  F=8.18  false_alarm=YES
+[FREE]    3f3e7ffe64f402211007097125.jpg            filter=(3,4)  F=4.99  false_alarm=YES
+[FREE]    3f62fc9be7da122c1359241544.jpg            filter=(3,2)  F=8.30  false_alarm=YES
+[FREE]    3f8968d7216a60611630580103.jpg            filter=(3,3)  F=14.89  false_alarm=YES
+[FREE]    3fac3159181841df0840360875.jpg            filter=(3,3)  F=5.47  false_alarm=YES
+[FREE]    4.jpg                                     filter=(3,3)  F=8.63  false_alarm=YES
+[FREE]    40.jpg                                    filter=(2,0)  F=24.38  false_alarm=YES
+[FREE]    40000ab7dd8c4d5d0948168333.jpg            filter=(3,3)  F=11.54  false_alarm=YES
+[FREE]    403bf1fddf7b3aa40951528786.jpg            filter=(3,5)  F=1.97  false_alarm=no
+[FREE]    4076d60b1ead51210831242942.jpg            filter=(3,3)  F=11.27  false_alarm=YES
+[FREE]    40ae598b37d67deb1331119726.jpg            filter=(3,0)  F=2.14  false_alarm=no
+[FREE]    40be9215bc8ed4270939190183.jpg            filter=(3,3)  F=12.22  false_alarm=YES
+[FREE]    40e16d30be4126e81341177082.jpg            filter=(3,3)  F=11.39  false_alarm=YES
+[FREE]    41.jpg                                    filter=(2,4)  F=10.59  false_alarm=YES
+[FREE]    41002dfbd096b1160936439953.jpg            filter=(3,3)  F=12.32  false_alarm=YES
+[FREE]    4117d7e6a0e5e91d1234222333.jpg            filter=(3,3)  F=12.78  false_alarm=YES
+[FREE]    4171327941eb0b0e1056570346.jpg            filter=(3,4)  F=2.46  false_alarm=no
+[FREE]    4194214e280331e71233026813.jpg            filter=(3,3)  F=12.53  false_alarm=YES
+[FREE]    41b8ae9a977b8b940944238725.jpg            filter=(3,3)  F=5.45  false_alarm=YES
+[FREE]    41bbf870aa33d3560814040123.jpg            filter=(3,4)  F=13.49  false_alarm=YES
+[FREE]    41cd869d279e5d6f0824027294.jpg            filter=(3,3)  F=8.10  false_alarm=YES
+[FREE]    42.jpg                                    filter=(3,0)  F=8.48  false_alarm=YES
+[FREE]    4202a072c93897830850422004.jpg            filter=(3,3)  F=8.93  false_alarm=YES
+[FREE]    4209f17b68d25d081628007212.jpg            filter=(3,3)  F=12.68  false_alarm=YES
+[FREE]    420a5ddacae94be01032219351.jpg            filter=(3,3)  F=4.12  false_alarm=no
+[FREE]    4277e9f2ea4657090958301856.jpg            filter=(3,4)  F=2.03  false_alarm=no
+[FREE]    4281825415b0977f1240199381.jpg            filter=(3,3)  F=7.66  false_alarm=YES
+[FREE]    42a88c42cf620d071209159926.jpg            filter=(3,5)  F=2.15  false_alarm=no
+[FREE]    42d71f6bc79a30e01247074946.jpg            filter=(3,4)  F=2.26  false_alarm=no
+[FREE]    43.jpg                                    filter=(2,5)  F=11.64  false_alarm=YES
+[FREE]    4320e13f00259c931601470333.jpg            filter=(3,3)  F=13.57  false_alarm=YES
+[FREE]    433679b596ffa0dc1043222783.jpg            filter=(3,3)  F=13.28  false_alarm=YES
+[FREE]    437f8f7a04e190fb1345361442.jpg            filter=(3,3)  F=12.93  false_alarm=YES
+[FREE]    4380b6909fd86fd90823103574.jpg            filter=(3,3)  F=8.16  false_alarm=YES
+[FREE]    4399a1c21deb7a510932399112.jpg            filter=(3,2)  F=11.71  false_alarm=YES
+[FREE]    43b59d10e4f702c90827209355.jpg            filter=(3,0)  F=5.41  false_alarm=YES
+[FREE]    43beffd1d0c76d840958015712.jpg            filter=(3,2)  F=12.51  false_alarm=YES
+[FREE]    43d4e792dcc2cf521030023721.jpg            filter=(3,2)  F=2.09  false_alarm=no
+[FREE]    44.jpg                                    filter=(2,3)  F=11.86  false_alarm=YES
+[FREE]    4412592de010594a1244573242.jpg            filter=(3,3)  F=12.01  false_alarm=YES
+[FREE]    44744eaddc631fa41238525263.jpg            filter=(3,4)  F=12.92  false_alarm=YES
+[FREE]    447d9d2e4dcf54de1511373015.jpg            filter=(3,3)  F=4.74  false_alarm=YES
+[FREE]    45.jpg                                    filter=(3,3)  F=22.95  false_alarm=YES
+[FREE]    4533b42c91112f820906285181.jpg            filter=(3,3)  F=3.38  false_alarm=no
+[FREE]    45a1ac9ab5dc35570910026186.jpg            filter=(3,4)  F=2.01  false_alarm=no
+[FREE]    45b193a2cf9308d50847255825.jpg            filter=(3,5)  F=5.71  false_alarm=YES
+[FREE]    46.jpg                                    filter=(2,3)  F=12.13  false_alarm=YES
+[FREE]    46270c3c283f39a21218318171.jpg            filter=(3,2)  F=2.29  false_alarm=no
+[FREE]    4644546bfce8700b0917535905.jpg            filter=(3,2)  F=5.14  false_alarm=YES
+[FREE]    464f4d796d0f1c0e1312196156.jpg            filter=(3,5)  F=1.90  false_alarm=no
+[FREE]    465a0919c726ace20839417985.jpg            filter=(3,3)  F=5.55  false_alarm=YES
+[FREE]    46803f3e04eeaaa51342121102.jpg            filter=(3,3)  F=13.13  false_alarm=YES
+[FREE]    46b5608ddcfe974a0831390813.jpg            filter=(3,1)  F=12.42  false_alarm=YES
+[FREE]    46b898e1f53616280831150462.jpg            filter=(3,3)  F=11.31  false_alarm=YES
+[FREE]    47.jpg                                    filter=(3,3)  F=15.29  false_alarm=YES
+[FREE]    470fd68c61da193f0920537862.jpg            filter=(3,3)  F=11.46  false_alarm=YES
+[FREE]    471fe02e7ef6c9cd0817438601.jpg            filter=(3,3)  F=8.79  false_alarm=YES
+[FREE]    475c4b31207b75181335118975.jpg            filter=(3,3)  F=5.68  false_alarm=YES
+[FREE]    4762f2d2e3f555321304057285.jpg            filter=(3,2)  F=5.74  false_alarm=YES
+[FREE]    4762f5de8486334b1633111953.jpg            filter=(3,3)  F=13.37  false_alarm=YES
+[FREE]    4769deea94b883981310543571.jpg            filter=(3,3)  F=6.91  false_alarm=YES
+[FREE]    47739d708eed0ac80939371633.jpg            filter=(3,3)  F=12.09  false_alarm=YES
+[FREE]    477b972ccfb034b71553208831.jpg            filter=(3,3)  F=2.82  false_alarm=no
+[FREE]    47a82a45839f539d0923502793.jpg            filter=(3,3)  F=13.26  false_alarm=YES
+[FREE]    48.jpg                                    filter=(3,3)  F=11.55  false_alarm=YES
+[FREE]    48097d35a56a32960920594635.jpg            filter=(3,0)  F=5.30  false_alarm=YES
+[FREE]    480bbdaa6e6ea87e0940558023.jpg            filter=(3,3)  F=11.79  false_alarm=YES
+[FREE]    480da2d463140a2a0815141866.jpg            filter=(3,5)  F=2.18  false_alarm=no
+[FREE]    487a3c5311aaf2f10953534706.jpg            filter=(3,5)  F=1.96  false_alarm=no
+[FREE]    487aea1a5bf105b10937276033.jpg            filter=(3,4)  F=11.94  false_alarm=YES
+[FREE]    48987a121e3c2f111230380874.jpg            filter=(3,3)  F=8.42  false_alarm=YES
+[FREE]    48a53517f9ebdbf71005039646.jpg            filter=(3,5)  F=1.98  false_alarm=no
+[FREE]    48ae68ba2b64cfd60829390705.jpg            filter=(3,0)  F=5.70  false_alarm=YES
+[FREE]    48beb032fa8df4da0849032315.jpg            filter=(3,3)  F=5.86  false_alarm=YES
+[FREE]    48dbd86279d3ef5b0804470632.jpg            filter=(3,3)  F=12.99  false_alarm=YES
+[FREE]    49.jpg                                    filter=(3,3)  F=24.40  false_alarm=YES
+[FREE]    49192580687534280926021181.jpg            filter=(3,3)  F=7.89  false_alarm=YES
+[FREE]    492144fa635f462e0934444423.jpg            filter=(3,2)  F=13.31  false_alarm=YES
+[FREE]    4941fb5442de68e80900445721.jpg            filter=(3,3)  F=5.49  false_alarm=YES
+[FREE]    49462903ac513a1e0943371725.jpg            filter=(3,3)  F=5.38  false_alarm=YES
+[FREE]    49990dd4c3982c2b1640532172.jpg            filter=(3,3)  F=14.77  false_alarm=YES
+[FREE]    4a183181e081a11d1605124823.jpg            filter=(3,3)  F=14.49  false_alarm=YES
+[FREE]    4a1c3f106d88cf5b0916278993.jpg            filter=(3,1)  F=12.93  false_alarm=YES
+[FREE]    4a3e4a55c017c1010942207063.jpg            filter=(3,3)  F=14.13  false_alarm=YES
+[FREE]    4a88c25b3ed6af201628083771.jpg            filter=(3,1)  F=2.13  false_alarm=no
+[FREE]    4ad98f1a210e56a71011403973.jpg            filter=(3,5)  F=13.07  false_alarm=YES
+[FREE]    4b46fbc0fd15303c1040335104.jpg            filter=(3,3)  F=7.88  false_alarm=YES
+[FREE]    4b9f72ebce7627ef0837507063.jpg            filter=(3,3)  F=13.83  false_alarm=YES
+[FREE]    4be1d348090de4ff0910025925.jpg            filter=(3,5)  F=5.61  false_alarm=YES
+[FREE]    4c3c3559a7b29bc51238523911.jpg            filter=(3,3)  F=6.75  false_alarm=YES
+[FREE]    4c4d72f98a34a4431543190921.jpg            filter=(3,3)  F=3.21  false_alarm=no
+[FREE]    4c4ebdbf8da8e33f1034064133.jpg            filter=(3,3)  F=12.74  false_alarm=YES
+[FREE]    4ca0b0433493c8741448241515.jpg            filter=(3,3)  F=4.87  false_alarm=YES
+[FREE]    4cae0708547caa250930444642.jpg            filter=(3,3)  F=11.70  false_alarm=YES
+[FREE]    4d51e6adad2760ba0918319271.jpg            filter=(3,3)  F=7.87  false_alarm=YES
+[FREE]    4d6cdeac65b443ae0933436131.jpg            filter=(3,4)  F=8.77  false_alarm=YES
+[FREE]    4d71adb9861a567d0933110261.jpg            filter=(3,3)  F=4.95  false_alarm=YES
+[FREE]    4d80028a1a26d5fd1007096322.jpg            filter=(3,3)  F=12.33  false_alarm=YES
+[FREE]    4df4919401d455fc1633416711.jpg            filter=(3,3)  F=10.12  false_alarm=YES
+[FREE]    4e292f3bd69873710856491081.jpg            filter=(3,3)  F=5.20  false_alarm=YES
+[FREE]    4e6d269be5debe2d1058087241.jpg            filter=(3,3)  F=4.35  false_alarm=no
+[FREE]    4ec812df8709f2810835204921.jpg            filter=(3,3)  F=5.20  false_alarm=YES
+[FREE]    4f2d849b80ba7a450844382825.jpg            filter=(3,1)  F=5.71  false_alarm=YES
+[FREE]    4f433792d0e232261221417735.jpg            filter=(3,3)  F=5.69  false_alarm=YES
+[FREE]    4f8de7de6bf65c1b1229103953.jpg            filter=(3,3)  F=13.06  false_alarm=YES
+[FREE]    4fc2c8652cd62a481233599724.jpg            filter=(3,3)  F=8.18  false_alarm=YES
+[FREE]    4fff4614bb65092c0917535343.jpg            filter=(3,3)  F=12.97  false_alarm=YES
+[FREE]    5.jpg                                     filter=(3,4)  F=18.94  false_alarm=YES
+[FREE]    50.jpg                                    filter=(3,3)  F=18.17  false_alarm=YES
+[FREE]    5092232a43e001861232170434.jpg            filter=(3,3)  F=8.27  false_alarm=YES
+[FREE]    5092b826106e08e00838341954.jpg            filter=(3,3)  F=8.26  false_alarm=YES
+[FREE]    50dcbedf1c7c30220807460472.jpg            filter=(3,1)  F=12.14  false_alarm=YES
+[FREE]    51.jpg                                    filter=(3,0)  F=24.55  false_alarm=YES
+[FREE]    5138c14b6e0632251019134332.jpg            filter=(3,1)  F=12.41  false_alarm=YES
+[FREE]    51585994be7415c91013570691.jpg            filter=(3,2)  F=2.64  false_alarm=no
+[FREE]    516fdcea757340d70914292471.jpg            filter=(3,3)  F=7.70  false_alarm=YES
+[FREE]    5172149bd19a90571343069641.jpg            filter=(3,3)  F=8.77  false_alarm=YES
+[FREE]    5196bc70dbf947090830172684.jpg            filter=(3,3)  F=8.23  false_alarm=YES
+[FREE]    519d94e4c971b6cd0950248135.jpg            filter=(3,2)  F=5.80  false_alarm=YES
+[FREE]    51bbadad47a627060759241352.jpg            filter=(3,3)  F=12.76  false_alarm=YES
+[FREE]    52.jpg                                    filter=(3,0)  F=9.66  false_alarm=YES
+[FREE]    5212c5de5fa52dea1619147172.jpg            filter=(3,4)  F=13.23  false_alarm=YES
+[FREE]    5245ea42004ccf730920538143.jpg            filter=(3,3)  F=13.26  false_alarm=YES
+[FREE]    524ee30dce6956591240381385.jpg            filter=(3,2)  F=5.67  false_alarm=YES
+[FREE]    526477db2a6636801056364191.jpg            filter=(3,2)  F=2.56  false_alarm=no
+[FREE]    5264794ff1bba8631006196744.jpg            filter=(3,3)  F=8.62  false_alarm=YES
+[FREE]    529917d4d4db14740818521574.jpg            filter=(3,3)  F=8.46  false_alarm=YES
+[FREE]    52def3f427aff8aa1429264625.jpg            filter=(3,2)  F=5.28  false_alarm=YES
+[FREE]    52e06597dbc26d131005460871.jpg            filter=(3,3)  F=2.84  false_alarm=no
+[FREE]    52e8889fa863bba90909121532.jpg            filter=(3,3)  F=13.03  false_alarm=YES
+[FREE]    52fcb341a312f4ef0910309116.jpg            filter=(3,0)  F=2.11  false_alarm=no
+[FREE]    53.jpg                                    filter=(3,4)  F=19.02  false_alarm=YES
+[FREE]    5338c376ad6e0aef1628085156.jpg            filter=(3,0)  F=1.82  false_alarm=no
+[FREE]    53b160f1c3545ab40828415381.jpg            filter=(3,3)  F=3.95  false_alarm=no
+[FREE]    53ccacc1fa25e3f51333430913.jpg            filter=(3,3)  F=13.59  false_alarm=YES
+[FREE]    53e119acacdfb14d0925191415.jpg            filter=(3,3)  F=5.03  false_alarm=YES
+[FREE]    53f7ab9f661333e61231329766.jpg            filter=(3,2)  F=1.94  false_alarm=no
+[FREE]    54.jpg                                    filter=(3,0)  F=13.23  false_alarm=YES
+[FREE]    5407f2bd678f77540839085143.jpg            filter=(3,4)  F=11.84  false_alarm=YES
+[FREE]    540d228b1b6382a70941396903.jpg            filter=(3,2)  F=12.05  false_alarm=YES
+[FREE]    5435828d3808ab9a1340219863.jpg            filter=(3,3)  F=12.73  false_alarm=YES
+[FREE]    54af12aae50a06121219590926.jpg            filter=(3,4)  F=2.28  false_alarm=no
+[FREE]    54e95370963a2e420831031004.jpg            filter=(3,2)  F=8.62  false_alarm=YES
+[FREE]    55.jpg                                    filter=(3,4)  F=31.19  false_alarm=YES
+[FREE]    55f5a5e34450bfd20827410162.jpg            filter=(3,3)  F=11.55  false_alarm=YES
+[FREE]    56.jpg                                    filter=(3,4)  F=4.68  false_alarm=YES
+[FREE]    562b252dd76049181235396581.jpg            filter=(3,3)  F=5.31  false_alarm=YES
+[FREE]    56627e65530faa1e1240201496.jpg            filter=(3,4)  F=2.35  false_alarm=no
+[FREE]    569588fbc464d5d70837506752.jpg            filter=(3,3)  F=12.36  false_alarm=YES
+[FREE]    5696c45557faad940935119263.jpg            filter=(3,3)  F=11.79  false_alarm=YES
+[FREE]    56b9af872045234f1229104505.jpg            filter=(3,4)  F=5.46  false_alarm=YES
+[FREE]    56f1990dec3b41170905044916.jpg            filter=(3,5)  F=1.96  false_alarm=no
+[FREE]    57.jpg                                    filter=(3,0)  F=31.38  false_alarm=YES
+[FREE]    572026c9bf1cda9d0921180982.jpg            filter=(3,1)  F=13.42  false_alarm=YES
+[FREE]    57991d0c03b01ad41222219054.jpg            filter=(3,1)  F=9.11  false_alarm=YES
+[FREE]    57a6e7f75d28c6ef1239200886.jpg            filter=(3,2)  F=2.36  false_alarm=no
+[FREE]    57cd13e53d5a8f4b0918005936.jpg            filter=(3,0)  F=2.27  false_alarm=no
+[FREE]    57ce3a54253a5b520828205146.jpg            filter=(3,5)  F=2.22  false_alarm=no
+[FREE]    57d48a4e50c19d4e1339329081.jpg            filter=(3,3)  F=8.81  false_alarm=YES
+[FREE]    58.jpg                                    filter=(3,2)  F=11.07  false_alarm=YES
+[FREE]    5809c6ab33d7ab5c0825563585.jpg            filter=(3,1)  F=5.52  false_alarm=YES
+[FREE]    580e241a4cb1e77a1229338503.jpg            filter=(3,3)  F=12.97  false_alarm=YES
+[FREE]    581d99b0e841080d1239532246.jpg            filter=(3,2)  F=2.33  false_alarm=no
+[FREE]    589dff75c31ab4011242285351.jpg            filter=(3,3)  F=3.69  false_alarm=no
+[FREE]    58d80941c430e7a80942373995.jpg            filter=(3,3)  F=5.59  false_alarm=YES
+[FREE]    59.jpg                                    filter=(3,0)  F=11.21  false_alarm=YES
+[FREE]    59984875efe1742b1527583692.jpg            filter=(3,3)  F=12.69  false_alarm=YES
+[FREE]    59acbcae0dd3b27d1309116195.jpg            filter=(3,3)  F=5.66  false_alarm=YES
+[FREE]    59f5ef2276a2f5001338411192.jpg            filter=(3,3)  F=12.93  false_alarm=YES
+[FREE]    5a0652115d69eacd0832217391.jpg            filter=(3,3)  F=6.11  false_alarm=YES
+[FREE]    5a6c2e2f139d35a01634151184.jpg            filter=(3,3)  F=8.19  false_alarm=YES
+[FREE]    5a9079574da4ab1a0936100603.jpg            filter=(3,3)  F=13.34  false_alarm=YES
+[FREE]    5aec3b16b25311731505550034.jpg            filter=(3,2)  F=9.12  false_alarm=YES
+[FREE]    5afe59d0ea987ba71008176356.jpg            filter=(3,3)  F=2.80  false_alarm=no
+[FREE]    5b4a8a2d76d0a7500849553295.jpg            filter=(3,2)  F=5.61  false_alarm=YES
+[FREE]    5bdc2db614dc354d0917204416.jpg            filter=(3,0)  F=2.25  false_alarm=no
+[FREE]    5c0be949a60cf7630828204875.jpg            filter=(3,1)  F=5.23  false_alarm=YES
+[FREE]    5c2889babea2f43f1612222563.jpg            filter=(3,3)  F=14.26  false_alarm=YES
+[FREE]    5c4f14a29447587c1518220791.jpg            filter=(3,3)  F=2.91  false_alarm=no
+[FREE]    5c53bc3e913c7eda0938537125.jpg            filter=(3,3)  F=4.23  false_alarm=YES
+[FREE]    5ca87aecb5a07e2c1055483634.jpg            filter=(3,2)  F=8.85  false_alarm=YES
+[FREE]    5cbbc3d666b0860a1606345293.jpg            filter=(3,4)  F=14.12  false_alarm=YES
+[FREE]    5d34f69e74f371731029069641.jpg            filter=(3,2)  F=2.35  false_alarm=no
+[FREE]    5dfdab44c9f8071b0821471776.jpg            filter=(3,5)  F=2.19  false_alarm=no
+[FREE]    5e2fd990ded12abb1539305295.jpg            filter=(3,3)  F=4.68  false_alarm=YES
+[FREE]    5e872788b34519311635434182.jpg            filter=(3,0)  F=14.21  false_alarm=YES
+[FREE]    5e90378ef73364360840358866.jpg            filter=(3,5)  F=1.95  false_alarm=no
+[FREE]    5ea62e3ad8dbd0080936074661.jpg            filter=(3,3)  F=4.10  false_alarm=YES
+[FREE]    5f19f45266167df90812272134.jpg            filter=(3,1)  F=7.16  false_alarm=YES
+[FREE]    5f429903b6e1b1bf1536185045.jpg            filter=(3,3)  F=4.74  false_alarm=YES
+[FREE]    5f4a1a6195b799801041191391.jpg            filter=(3,2)  F=2.17  false_alarm=no
+[FREE]    5fb2abda4d3874a90808187182.jpg            filter=(3,3)  F=12.22  false_alarm=YES
+[FREE]    5fb9cb3c3f6144380942505295.jpg            filter=(3,3)  F=5.65  false_alarm=YES
+[FREE]    6.jpg                                     filter=(3,5)  F=22.69  false_alarm=YES
